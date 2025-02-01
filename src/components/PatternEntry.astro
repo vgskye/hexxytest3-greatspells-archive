@@ -1,0 +1,45 @@
+---
+import { Icon } from "astro-icon/components";
+import PatternDisplay from "./PatternDisplay.astro";
+import registryDump from "./registry_dump.json";
+
+const { id } = Astro.props;
+
+const pattern = registryDump.find((v) => v.id == id);
+---
+
+<li
+  data-id={id}
+  class="col-span-1 flex flex-col divide-y divide-gray-600 rounded-lg bg-gray-800 text-center shadow-lg pattern-entry"
+>
+  <div class="flex flex-1 flex-col p-8">
+    <h3 class="mb-1 text-sm font-medium text-gray-100 break-words">
+      {pattern!.name}
+    </h3>
+    <dl class="mb-6 flex grow flex-col justify-between">
+      <dt class="sr-only">Mod</dt>
+      <dd class="text-sm text-gray-300">{pattern!.modname}</dd>
+    </dl>
+    <PatternDisplay
+      signature={pattern!.angles}
+      startdir={pattern!.start.toLowerCase()}
+    />
+  </div>
+  <div>
+    <div class="-mt-px flex divide-x divide-gray-200">
+      <div class="-ml-px flex w-0 flex-1">
+        <button
+          data-copy={`HexPattern[${pattern!.start}, ${pattern!.angles}]`}
+          class="copy relative inline-flex w-0 flex-1 items-center justify-center gap-x-3 rounded-b-lg border border-transparent py-4 text-sm font-semibold text-gray-200 hover:bg-gray-600"
+        >
+          <Icon
+            name="fluent:copy-20-filled"
+            class="size-5 text-gray-200"
+            data-slot="icon"
+          />
+          Copy anglesig
+        </button>
+      </div>
+    </div>
+  </div>
+</li>

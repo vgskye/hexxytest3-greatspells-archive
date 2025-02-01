@@ -1,0 +1,4242 @@
+[
+  {
+    "isGreat": true,
+    "id": "hexcasting:sentinel/create/great",
+    "start": "EAST",
+    "angles": "eedeqqqwqqwdeeeqd",
+    "name": "Summon Greater Sentinel",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:add",
+    "start": "NORTH_EAST",
+    "angles": "waaw",
+    "name": "Additive Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:link/comm/read",
+    "start": "NORTH_EAST",
+    "angles": "weeeeew",
+    "name": "Recitation Reflection",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexal:wisp/move/speed/set",
+    "start": "WEST",
+    "angles": "aeawqqqae",
+    "name": "Haste",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexal:wisp/move/target/get",
+    "start": "EAST",
+    "angles": "ewdwewdew",
+    "name": "Pathfinder\u0027s Reflection",
+    "modname": "Hexal"
+  },
+  {
+    "id": "complexhex:rotatebit",
+    "start": "SOUTH_EAST",
+    "angles": "wqwqwqwqwqwaqeeeeedww",
+    "name": "Rotate BIT",
+    "modname": "Complex Hex"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:potion/strength",
+    "start": "NORTH_EAST",
+    "angles": "eeeqdwdwddeaa",
+    "name": "Green Sun\u0027s Zenith",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:sub",
+    "start": "NORTH_WEST",
+    "angles": "wddw",
+    "name": "Subtractive Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexdebug:const/debugging",
+    "start": "EAST",
+    "angles": "qqqqqewaa",
+    "name": "Debugger\u0027s Reflection",
+    "modname": "HexDebug"
+  },
+  {
+    "id": "hexical:kill_specklike",
+    "start": "SOUTH_WEST",
+    "angles": "adeaqde",
+    "name": "Dismiss Speck",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:not_equals",
+    "start": "EAST",
+    "angles": "da",
+    "name": "Inequality Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "oneironaut:haltrod",
+    "start": "SOUTH_WEST",
+    "angles": "aqdeeweeew",
+    "name": "Finale",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexical:can_prestidigitate",
+    "start": "NORTH_WEST",
+    "angles": "wqaqwqaqw",
+    "name": "Alteration Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:mote/craft/preview",
+    "start": "NORTH_EAST",
+    "angles": "wwdwaqawdwaqwwawdedwawwqawdwaqawdww",
+    "name": "Preview Craft",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexal:mote/storage/get",
+    "start": "SOUTH_WEST",
+    "angles": "qqqqqaw",
+    "name": "Depot Purification",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:burning_time",
+    "start": "WEST",
+    "angles": "eewdead",
+    "name": "Inferno Purification II",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:arctan",
+    "start": "NORTH_EAST",
+    "angles": "eadeeeeew",
+    "name": "Inverse Tangent Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:piercing_surface_raycast",
+    "start": "EAST",
+    "angles": "weeaaeqeaae",
+    "name": "Laser Exaltation",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:index_grimoire",
+    "start": "SOUTH_EAST",
+    "angles": "aqaeaqwqa",
+    "name": "Archivist Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:readable/entity",
+    "start": "EAST",
+    "angles": "wawqwqwqwqwqwew",
+    "name": "Auditor\u0027s Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "moreiotas:string/block/get",
+    "start": "EAST",
+    "angles": "awqwawqe",
+    "name": "Reader\u0027s Purification",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "complexhex:scalebit",
+    "start": "SOUTH_EAST",
+    "angles": "wqwqwqwqwqwawwaawaawa",
+    "name": "Scale BIT",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexical:dup_many",
+    "start": "EAST",
+    "angles": "waadadaa",
+    "name": "Dioscuri Gambit II",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:zone_entity/item",
+    "start": "SOUTH_EAST",
+    "angles": "qqqqqwdeddww",
+    "name": "Zone Distillation: Item",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:explode/fire",
+    "start": "EAST",
+    "angles": "ddwddwdd",
+    "name": "Fireball",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "moreiotas:matrix/zero",
+    "start": "SOUTH_WEST",
+    "angles": "awwaeawwa",
+    "name": "Zero Distillation",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "moreiotas:type/to_item",
+    "start": "EAST",
+    "angles": "qaqqaea",
+    "name": "Sorter\u0027s Purification",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexical:draw_pattern",
+    "start": "NORTH_EAST",
+    "angles": "eadqqqa",
+    "name": "Handwriting Distillation",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:tan",
+    "start": "SOUTH_WEST",
+    "angles": "wqqqqqadq",
+    "name": "Tangent Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:turret_lamp_normal",
+    "start": "NORTH_EAST",
+    "angles": "qaqwddedweaqwqae",
+    "name": "Trajectory Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:gasp",
+    "start": "NORTH_WEST",
+    "angles": "aweeeeewaweeeee",
+    "name": "Gasp",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:sample_pigment",
+    "start": "SOUTH_EAST",
+    "angles": "edewqaqqqqqwqqq",
+    "name": "Pigment Exaltation",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:const/double/tau",
+    "start": "NORTH_WEST",
+    "angles": "eawae",
+    "name": "Circle\u0027s Reflection",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:age_scroll",
+    "start": "EAST",
+    "angles": "waeqqqqeqqqwqeaeaeaeq",
+    "name": "Age Scroll",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:place_block_type",
+    "start": "NORTH_WEST",
+    "angles": "wewewewewewdwew",
+    "name": "Construct",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:reverse",
+    "start": "EAST",
+    "angles": "qqqaede",
+    "name": "Retrograde Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:llama_spit",
+    "start": "EAST",
+    "angles": "dwqaqw",
+    "name": "Spit",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:recharge_lamp",
+    "start": "EAST",
+    "angles": "qaqwawqwqqwqwqwqwqwqq",
+    "name": "Make Genie",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:sisyphus",
+    "start": "NORTH_EAST",
+    "angles": "qaqwede",
+    "name": "Sisyphus\u0027 Gambit",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:modify_block_invisible",
+    "start": "NORTH_WEST",
+    "angles": "deeqedeaqqqwqqq",
+    "name": "Modify Block: Invisible",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:wristpocket",
+    "start": "WEST",
+    "angles": "aaqqa",
+    "name": "Wristpocket",
+    "modname": "Hexical"
+  },
+  {
+    "id": "moreiotas:string/iota",
+    "start": "EAST",
+    "angles": "wawqwawaw",
+    "name": "Scrivener\u0027s Purification",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexcasting:div",
+    "start": "NORTH_EAST",
+    "angles": "wdedw",
+    "name": "Division Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:get_arch_lamp_use_time",
+    "start": "NORTH_EAST",
+    "angles": "qaqwddedqwddwa",
+    "name": "Archgenie Reflection: Temporal",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:count_max_stack",
+    "start": "WEST",
+    "angles": "edeeweeew",
+    "name": "Warehouse Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:hexvr/left_hand_pos",
+    "start": "WEST",
+    "angles": "qaa",
+    "name": "hexcasting.action.hexcasting:hexvr/left_hand_pos",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:potion/slowness",
+    "start": "SOUTH_EAST",
+    "angles": "qqqqqadwawaw",
+    "name": "Green Sun\u0027s Nadir",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:get_hunger",
+    "start": "WEST",
+    "angles": "adaqqqddqe",
+    "name": "Calorie Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:autograph",
+    "start": "NORTH_EAST",
+    "angles": "wwqqqqq",
+    "name": "Autograph",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:zone_entity/not_monster",
+    "start": "NORTH_EAST",
+    "angles": "eeeeewaqaawq",
+    "name": "Zone Distillation: Non-Monster",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:mote/trade",
+    "start": "NORTH_WEST",
+    "angles": "awdedwaeqded",
+    "name": "Trade",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:env_media",
+    "start": "WEST",
+    "angles": "dde",
+    "name": "Media Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:get_hand_lamp_rotation",
+    "start": "SOUTH_WEST",
+    "angles": "qwddedadw",
+    "name": "Genie Reflection: Rotational",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:ceil",
+    "start": "EAST",
+    "angles": "qwe",
+    "name": "Ceiling Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "isGreat": true,
+    "id": "complexhex:summontextdisplay",
+    "start": "SOUTH_WEST",
+    "angles": "wewewdqdwaaqddqdqawqwqw",
+    "name": "Summon Text Display",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexcasting:swap",
+    "start": "EAST",
+    "angles": "aawdd",
+    "name": "Jester\u0027s Gambit",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:read_tchotchke",
+    "start": "NORTH_EAST",
+    "angles": "waqqqqqeaqeaeaeaeaeq",
+    "name": "Tchotchke Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:hexvr/right_hand_vel",
+    "start": "EAST",
+    "angles": "qwaa",
+    "name": "hexcasting.action.hexcasting:hexvr/right_hand_vel",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:get_entity_height",
+    "start": "NORTH_EAST",
+    "angles": "awq",
+    "name": "Stadiometer\u0027s Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:link/unlink",
+    "start": "WEST",
+    "angles": "qdeddqeeeeedwqdeddw",
+    "name": "Unlink",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:is_baby",
+    "start": "SOUTH_WEST",
+    "angles": "awaqdwaaw",
+    "name": "Youth Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:get_effects_item",
+    "start": "SOUTH_WEST",
+    "angles": "wqqqadee",
+    "name": "Prescription Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:shader_media",
+    "start": "WEST",
+    "angles": "eewdweqaqewdwee",
+    "name": "Identify Importance",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:rotate_specklike",
+    "start": "SOUTH_WEST",
+    "angles": "adeaw",
+    "name": "Rotate Speck",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:wisp/trigger/comm",
+    "start": "EAST",
+    "angles": "aqqqqqwdeddw",
+    "name": "Listen",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:env_arch_lamp",
+    "start": "NORTH_EAST",
+    "angles": "waaqqqaqwdd",
+    "name": "Grand Wish Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "moreiotas:string/block/set",
+    "start": "WEST",
+    "angles": "dwewdweq",
+    "name": "Write",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "moreiotas:get_entity/type",
+    "start": "NORTH_EAST",
+    "angles": "dadqqqqqdad",
+    "name": "Entity Distillation: Type",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexical:wristpocket_item",
+    "start": "WEST",
+    "angles": "aaqqada",
+    "name": "Pocket Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:get_caster",
+    "start": "NORTH_EAST",
+    "angles": "qaq",
+    "name": "Mind\u0027s Reflection",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:get_arch_lamp_rotation",
+    "start": "NORTH_EAST",
+    "angles": "qaqwddedadw",
+    "name": "Archgenie Reflection: Rotational",
+    "modname": "Hexical"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:lightning",
+    "start": "NORTH_WEST",
+    "angles": "ewqqeaaqwdwaddw",
+    "name": "Summon Lightning",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:circle/bounds/max",
+    "start": "WEST",
+    "angles": "aqwqawaaqa",
+    "name": "Greater Fold Reflection",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:get_entity/player",
+    "start": "SOUTH_EAST",
+    "angles": "qqqqqdaqaawe",
+    "name": "Entity Purification: Player",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "oneironaut:signitem",
+    "start": "EAST",
+    "angles": "qqaqwedeea",
+    "name": "Sign Item",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "moreiotas:string/name/set",
+    "start": "SOUTH_WEST",
+    "angles": "aqeeqaaeweeewe",
+    "name": "Name",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "oneironaut:writeidea",
+    "start": "EAST",
+    "angles": "eweweweweweeewqaqwe",
+    "name": "Inscribe Idea",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexdebug:breakpoint/after",
+    "start": "EAST",
+    "angles": "wqqaewd",
+    "name": "Set Breakpoint After",
+    "modname": "HexDebug"
+  },
+  {
+    "id": "hexcasting:potion/levitation",
+    "start": "WEST",
+    "angles": "qqqqqawwawawd",
+    "name": "Blue Sun\u0027s Nadir",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:congruent",
+    "start": "EAST",
+    "angles": "aaqd",
+    "name": "Congruence Distillation",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:flight/time",
+    "start": "NORTH_EAST",
+    "angles": "dwdwdewq",
+    "name": "Wayfarer\u0027s Flight",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:is_wet",
+    "start": "SOUTH_WEST",
+    "angles": "qqqqwaadq",
+    "name": "Enderman\u0027s Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:singleton",
+    "start": "EAST",
+    "angles": "adeeed",
+    "name": "Single\u0027s Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:const/vec/px",
+    "start": "NORTH_WEST",
+    "angles": "qqqqqea",
+    "name": "Vector Reflection +X",
+    "modname": "Hex Casting"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:potion/haste",
+    "start": "WEST",
+    "angles": "awaddqawaeqqq",
+    "name": "Red Sun\u0027s Zenith",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:erase_grimoire",
+    "start": "WEST",
+    "angles": "aqwqaqded",
+    "name": "Erase Grimoire",
+    "modname": "Hexical"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:dispel_rain",
+    "start": "EAST",
+    "angles": "qdwaawqeqqqwwwqqqwwe",
+    "name": "Dispel Rain",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:link/comm/clear",
+    "start": "SOUTH_EAST",
+    "angles": "aweeeeewa",
+    "name": "Unclogging Gambit",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:write_grimoire",
+    "start": "WEST",
+    "angles": "aqwqaeaqa",
+    "name": "Write Grimoire",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:potion/poison",
+    "start": "SOUTH_EAST",
+    "angles": "qqqqqadwawaww",
+    "name": "Red Sun\u0027s Nadir",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:for_each",
+    "start": "NORTH_EAST",
+    "angles": "dadad",
+    "name": "Thoth\u0027s Gambit",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:entity_pos/eye",
+    "start": "EAST",
+    "angles": "aa",
+    "name": "Compass\u0027 Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:conjure_hexburst",
+    "start": "EAST",
+    "angles": "aadaadqaq",
+    "name": "Conjure Hexburst",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:lamp_finale",
+    "start": "EAST",
+    "angles": "aaddaddad",
+    "name": "Finale Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "oneironaut:circle",
+    "start": "SOUTH_EAST",
+    "angles": "wwwwwwqwwwwwwqwwwwwwqwwwwwwqwwwwwwqwwwwww",
+    "name": "Circle",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "moreiotas:matrix/rotation",
+    "start": "SOUTH_WEST",
+    "angles": "awwaeawwawawddw",
+    "name": "Rotation Distillation",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexal:mote/storage/bind",
+    "start": "NORTH_WEST",
+    "angles": "qaqwqaqwqaq",
+    "name": "Bind Storage",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexcasting:cycle_variant",
+    "start": "WEST",
+    "angles": "dwaawedwewdwe",
+    "name": "Caster\u0027s Glamour",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "moreiotas:string/chat/caster",
+    "start": "EAST",
+    "angles": "waqa",
+    "name": "Whisper Reflection",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexical:get_max_air",
+    "start": "EAST",
+    "angles": "wwaadee",
+    "name": "Lung Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:garbage",
+    "start": "EAST",
+    "angles": "aqawde",
+    "name": "Garbage Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "isGreat": true,
+    "id": "oneironaut:reviveflayed",
+    "start": "WEST",
+    "angles": "weweweeeeedqeewewqdewdqdwe",
+    "name": "Instill Psyche",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexical:write_tchotchke",
+    "start": "NORTH_EAST",
+    "angles": "waqqqqqedeqdqdqdqdqe",
+    "name": "Tchotchke Gambit",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:moving_left",
+    "start": "SOUTH_EAST",
+    "angles": "edead",
+    "name": "Dodge Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "complexhex:axisangle",
+    "start": "SOUTH_EAST",
+    "angles": "waqqqqqedaqqqa",
+    "name": "Axis Angle Distillation",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexcasting:raycast/axis",
+    "start": "EAST",
+    "angles": "weddwaa",
+    "name": "Architect\u0027s Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:mote/contained/get",
+    "start": "SOUTH_EAST",
+    "angles": "aweeeeewaaww",
+    "name": "Stocktake Purification",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexcasting:sentinel/create",
+    "start": "EAST",
+    "angles": "waeawae",
+    "name": "Summon Sentinel",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:mote/villager/level/get",
+    "start": "NORTH_WEST",
+    "angles": "qqwdedwqqaww",
+    "name": "Seniority Purification",
+    "modname": "Hexal"
+  },
+  {
+    "id": "moreiotas:string/name/get",
+    "start": "SOUTH_EAST",
+    "angles": "deqqeddqwqqqwq",
+    "name": "Moniker Purification",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexal:everbook/write",
+    "start": "SOUTH_EAST",
+    "angles": "qwqqqwqaeaqaaw",
+    "name": "Elysium\u0027s Gambit",
+    "modname": "Hexal"
+  },
+  {
+    "isGreat": true,
+    "id": "complexhex:summonitemdisplay",
+    "start": "NORTH_EAST",
+    "angles": "wwaqqqqawwawqwqwqwqwqw",
+    "name": "Summon Item Display",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexcasting:sentinel/get_pos",
+    "start": "EAST",
+    "angles": "waeawaede",
+    "name": "Locate Sentinel",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "complexhex:conjugate",
+    "start": "SOUTH_WEST",
+    "angles": "wqqd",
+    "name": "Conjugation Prfn.",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "complexhex:bubble",
+    "start": "SOUTH_EAST",
+    "angles": "qdqdqdqdqdq",
+    "name": "Bubbles\u0027 Purification",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexcasting:ignite",
+    "start": "SOUTH_EAST",
+    "angles": "aaqawawa",
+    "name": "Ignite",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:conjure_firework",
+    "start": "SOUTH_WEST",
+    "angles": "dedwaqwwawwqa",
+    "name": "Conjure Firework",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:zone_entity/not_living",
+    "start": "NORTH_EAST",
+    "angles": "eeeeewaqaawd",
+    "name": "Zone Distillation: Non-Living",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcassettes:enqueue",
+    "start": "EAST",
+    "angles": "qeqwqwqwqwqeqaweqqqqqwweeweweewqdwwewewwewweweww",
+    "name": "Enqueue",
+    "modname": "Hexcassettes"
+  },
+  {
+    "id": "hexcasting:sentinel/destroy",
+    "start": "NORTH_EAST",
+    "angles": "qdwdqdw",
+    "name": "Banish Sentinel",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:get_comparator",
+    "start": "WEST",
+    "angles": "eweweweweweewwddawaddww",
+    "name": "Peripheral Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:link/others",
+    "start": "EAST",
+    "angles": "eqqqqqawqeeeeedww",
+    "name": "Link Others",
+    "modname": "Hexal"
+  },
+  {
+    "id": "moreiotas:matrix/identity",
+    "start": "SOUTH_WEST",
+    "angles": "awwaeawwaqw",
+    "name": "Identity Purification",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexical:moving_right",
+    "start": "SOUTH_WEST",
+    "angles": "qaqda",
+    "name": "Evade Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:circle/impetus_pos",
+    "start": "SOUTH_WEST",
+    "angles": "eaqwqae",
+    "name": "Waystone Reflection",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:wisp/seon/get",
+    "start": "EAST",
+    "angles": "daqweewqaeaqweewqaqwwww",
+    "name": "Familiar\u0027s Reflection",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:read_shelf",
+    "start": "EAST",
+    "angles": "qaqqqada",
+    "name": "Librarian\u0027s Purification II",
+    "modname": "Hexical"
+  },
+  {
+    "id": "moreiotas:string/comma",
+    "start": "EAST",
+    "angles": "qa",
+    "name": "Comma Reflection",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexical:get_time",
+    "start": "SOUTH_EAST",
+    "angles": "wddwaqqwqaddaqqwddwaqqwqaddaq",
+    "name": "Temporal Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:blockstate_crop",
+    "start": "EAST",
+    "angles": "qaqqqqqwaea",
+    "name": "Farmer\u0027s Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:less",
+    "start": "SOUTH_WEST",
+    "angles": "q",
+    "name": "Minimus Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:get_arch_lamp_position",
+    "start": "NORTH_EAST",
+    "angles": "qaqwddedqdd",
+    "name": "Archgenie Reflection: Spatial",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:colorize",
+    "start": "EAST",
+    "angles": "awddwqawqwawq",
+    "name": "Internalize Pigment",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:flight/range",
+    "start": "SOUTH_WEST",
+    "angles": "awawaawq",
+    "name": "Anchorite\u0027s Flight",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:craft/trinket",
+    "start": "EAST",
+    "angles": "wwaqqqqqeaqeaeqqqeaeq",
+    "name": "Craft Trinket",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:weave_mesh",
+    "start": "EAST",
+    "angles": "qaqqqqqwqqqdeewewee",
+    "name": "Weave Mesh",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:soroban_increment",
+    "start": "NORTH_EAST",
+    "angles": "wdeaqq",
+    "name": "Soroban Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:not",
+    "start": "NORTH_WEST",
+    "angles": "dw",
+    "name": "Negation Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:get_entity",
+    "start": "SOUTH_EAST",
+    "angles": "qqqqqdaqa",
+    "name": "Entity Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:soroban_reset",
+    "start": "NORTH_EAST",
+    "angles": "qdeeaae",
+    "name": "Soroban Gambit",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:castor",
+    "start": "NORTH_WEST",
+    "angles": "adadee",
+    "name": "Castor\u0027s Gambit",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:everbook/read",
+    "start": "NORTH_EAST",
+    "angles": "eweeewedqdeddw",
+    "name": "Mnemosyne\u0027s Gambit",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:env_ambit",
+    "start": "EAST",
+    "angles": "wawaw",
+    "name": "Ambit Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "moreiotas:type/entity",
+    "start": "SOUTH_WEST",
+    "angles": "qawde",
+    "name": "Physician\u0027s Purification",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexcasting:abs",
+    "start": "NORTH_EAST",
+    "angles": "wqaqw",
+    "name": "Length Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:running/sum",
+    "start": "WEST",
+    "angles": "aea",
+    "name": "Running Sum Purification",
+    "modname": "Hexal"
+  },
+  {
+    "isGreat": true,
+    "id": "oneironaut:dimteleport",
+    "start": "WEST",
+    "angles": "eaeedwqawwwawdaqaawawwwaeaqedwdwdeqdaqeaeqqwwwwqqeqeqqwwwwqqe",
+    "name": "Noetic Gateway",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexical:get_mainhand_stack",
+    "start": "NORTH_EAST",
+    "angles": "qaqqqq",
+    "name": "Tool Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "complexhex:const/quaternion/j",
+    "start": "SOUTH_EAST",
+    "angles": "waqqqqqee",
+    "name": "Quaternionic Rfln: j",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hextweaks:page/left",
+    "start": "SOUTH_EAST",
+    "angles": "eedw",
+    "name": "Regress Gambit",
+    "modname": "Hex Tweaks"
+  },
+  {
+    "id": "oneironaut:readidea",
+    "start": "WEST",
+    "angles": "qwqwqwqwqwqqqwedewq",
+    "name": "Retrieve Idea",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "moreiotas:item/inventory/stacks",
+    "start": "NORTH_EAST",
+    "angles": "aqwed",
+    "name": "Hoarder\u0027s Distillation",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexcasting:const/false",
+    "start": "NORTH_EAST",
+    "angles": "dedq",
+    "name": "False Reflection",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:fisherman",
+    "start": "WEST",
+    "angles": "ddad",
+    "name": "Fisherman\u0027s Gambit",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:clear_shelf",
+    "start": "SOUTH_WEST",
+    "angles": "edeedade",
+    "name": "Librarian\u0027s Gambit II",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:unique",
+    "start": "NORTH_EAST",
+    "angles": "aweaqa",
+    "name": "Uniqueness Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "oneironaut:getrodlook",
+    "start": "SOUTH_EAST",
+    "angles": "qwqqqwqawa",
+    "name": "Baton Reflection",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexcasting:flight/can_fly",
+    "start": "NORTH_EAST",
+    "angles": "dwdwdeweaqa",
+    "name": "Aviator\u0027s Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:swizzle",
+    "start": "SOUTH_EAST",
+    "angles": "qaawdde",
+    "name": "Swindler\u0027s Gambit",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:write/local",
+    "start": "NORTH_WEST",
+    "angles": "eqqwawqaaw",
+    "name": "Huginn\u0027s Gambit",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "oneironaut:advanceautomaton",
+    "start": "SOUTH_WEST",
+    "angles": "qqwqwqwaqeee",
+    "name": "Cellular Generation",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexical:fluid_raycast",
+    "start": "EAST",
+    "angles": "wqqaqwede",
+    "name": "Naval Distillation",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:deconstruct_vec",
+    "start": "EAST",
+    "angles": "qeeeee",
+    "name": "Vector Disintegration",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:index",
+    "start": "NORTH_WEST",
+    "angles": "deeed",
+    "name": "Selection Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexdebug:block_write_indexed",
+    "start": "EAST",
+    "angles": "deeeeeqawqwaw",
+    "name": "hexcasting.action.hexdebug:block_write_indexed",
+    "modname": "HexDebug"
+  },
+  {
+    "id": "oneironaut:readsentinel",
+    "start": "EAST",
+    "angles": "waeawaeddwwd",
+    "name": "Scrutinize Sentinel",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexical:get_enchantments",
+    "start": "WEST",
+    "angles": "waqeaeqawqwawaw",
+    "name": "Thaumaturgist\u0027s Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:arcsin",
+    "start": "SOUTH_EAST",
+    "angles": "ddeeeee",
+    "name": "Inverse Sine Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "complexhex:get_entity/bit",
+    "start": "SOUTH_EAST",
+    "angles": "qqwwewewewewewwqqdaqaaww",
+    "name": "Entity Purification: BIT",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexal:gate/unmark",
+    "start": "EAST",
+    "angles": "edeqqaq",
+    "name": "Gate\u0027s Dismissal",
+    "modname": "Hexal"
+  },
+  {
+    "id": "complexhex:const/quaternion/i",
+    "start": "SOUTH_EAST",
+    "angles": "waqqqqqeq",
+    "name": "Quaternionic Rfln.: i",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexal:armour",
+    "start": "NORTH_WEST",
+    "angles": "wqqqqw",
+    "name": "Squire\u0027s Purification",
+    "modname": "Hexal"
+  },
+  {
+    "id": "moreiotas:matrix/inverse",
+    "start": "WEST",
+    "angles": "wwdqdwwdqaq",
+    "name": "Inverse Purification",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexcasting:hexvr/head_rot",
+    "start": "WEST",
+    "angles": "qqwqwqwqqwqqawdedw",
+    "name": "hexcasting.action.hexcasting:hexvr/head_rot",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "oneironaut:resetrod",
+    "start": "SOUTH_EAST",
+    "angles": "deaqqwqqqw",
+    "name": "Encore",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexical:get_air",
+    "start": "EAST",
+    "angles": "wwaade",
+    "name": "Suffocation Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:edify",
+    "start": "NORTH_EAST",
+    "angles": "wqaqwd",
+    "name": "Edify Sapling",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:janus",
+    "start": "SOUTH_WEST",
+    "angles": "aadee",
+    "name": "Janus\u0027 Gambit",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:color_scroll",
+    "start": "EAST",
+    "angles": "waeqqqqewqqwqqeqeqqwqqeq",
+    "name": "Dye Ink",
+    "modname": "Hexical"
+  },
+  {
+    "id": "oneironaut:readideawriter",
+    "start": "WEST",
+    "angles": "qwqwqwqwqwqaeqedeqe",
+    "name": "Metadata Distillation",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexcasting:eval/cc",
+    "start": "NORTH_WEST",
+    "angles": "qwaqde",
+    "name": "Iris\u0027 Gambit",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "moreiotas:altpow",
+    "start": "NORTH_EAST",
+    "angles": "wedewqawwawqwa",
+    "name": "Power Distillation II",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexical:get_light",
+    "start": "SOUTH_WEST",
+    "angles": "wqwqwqwqwqwaeqqqqaeqaeaeaeaw",
+    "name": "Luminance Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:breedable",
+    "start": "EAST",
+    "angles": "awaaqdqaawa",
+    "name": "Reproduction Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:wisp/self",
+    "start": "NORTH_EAST",
+    "angles": "dedwqqwdedwqqaw",
+    "name": "Identity Reflection",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexal:link",
+    "start": "EAST",
+    "angles": "eaqaaeqqqqqaweaqaaw",
+    "name": "Link",
+    "modname": "Hexal"
+  },
+  {
+    "id": "oneironaut:getdimheight",
+    "start": "NORTH_EAST",
+    "angles": "awqqqwqwqwqwqwq",
+    "name": "Atlas\u0027 Decomposition",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexcasting:get_entity_velocity",
+    "start": "EAST",
+    "angles": "wq",
+    "name": "Pace Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "complexhex:const/quaternion/1",
+    "start": "SOUTH_EAST",
+    "angles": "waqqqqqea",
+    "name": "Quaternionic Rfln.: 1",
+    "modname": "Complex Hex"
+  },
+  {
+    "isGreat": true,
+    "id": "oneironaut:infusemedia",
+    "start": "NORTH_EAST",
+    "angles": "qqeadadaqedeewwqdeqeqdaawqqqeeeeedwwaeaeaeddqqdwe",
+    "name": "Media Infusion",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "oneironaut:getdimscale",
+    "start": "NORTH_WEST",
+    "angles": "wawawqwqwqwqwqw",
+    "name": "Ratio Purification",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexcasting:greater_eq",
+    "start": "SOUTH_EAST",
+    "angles": "ee",
+    "name": "Maximus Distillation II",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "moreiotas:string/parse",
+    "start": "EAST",
+    "angles": "aqwaq",
+    "name": "Input Purification",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "moreiotas:string/chat/prefix/get",
+    "start": "NORTH_EAST",
+    "angles": "ewded",
+    "name": "Sifter\u0027s Reflection",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexical:identify",
+    "start": "NORTH_EAST",
+    "angles": "qqqqqe",
+    "name": "Detective\u0027s Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:create_water",
+    "start": "SOUTH_EAST",
+    "angles": "aqawqadaq",
+    "name": "Create Water",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:less_eq",
+    "start": "SOUTH_WEST",
+    "angles": "qq",
+    "name": "Minimus Distillation II",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:set_hand_lamp_storage",
+    "start": "SOUTH_WEST",
+    "angles": "qwddedqedeeeee",
+    "name": "Genie Gambit",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:everbook/toggle_macro",
+    "start": "SOUTH_WEST",
+    "angles": "eweeewedww",
+    "name": "Brigh\u0027s Gambit",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexal:mote/trade/get",
+    "start": "SOUTH_EAST",
+    "angles": "awdedwaawwqded",
+    "name": "Offering Purification",
+    "modname": "Hexal"
+  },
+  {
+    "isGreat": true,
+    "id": "hexical:greater_blink",
+    "start": "EAST",
+    "angles": "dweaaeqwqaaedwwwaaw",
+    "name": "Greater Blink",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:2dup",
+    "start": "EAST",
+    "angles": "aadadaaw",
+    "name": "Dioscuri Gambit",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "moreiotas:item/prop/size/set",
+    "start": "EAST",
+    "angles": "adeeedew",
+    "name": "Treasurer\u0027s Distillation",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexcasting:zone_entity/animal",
+    "start": "SOUTH_EAST",
+    "angles": "qqqqqwdeddwa",
+    "name": "Zone Distillation: Animal",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:blockstate_bunch",
+    "start": "EAST",
+    "angles": "qaqqqqqweeeeedeeqaqdeee",
+    "name": "Bunching Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:am_enlightened",
+    "start": "SOUTH_EAST",
+    "angles": "awqaqqq",
+    "name": "Epiphany Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:const/null",
+    "start": "EAST",
+    "angles": "d",
+    "name": "Nullary Reflection",
+    "modname": "Hex Casting"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:potion/absorption",
+    "start": "SOUTH_EAST",
+    "angles": "edawawaqeeeaa",
+    "name": "Black Sun\u0027s Zenith",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "moreiotas:zone_entity/type",
+    "start": "SOUTH_EAST",
+    "angles": "waweeeeewaw",
+    "name": "Zone Exaltation: Type",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexcasting:index_of",
+    "start": "EAST",
+    "angles": "dedqde",
+    "name": "Locator\u0027s Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:freeze",
+    "start": "WEST",
+    "angles": "weeeweedada",
+    "name": "Freeze",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:get_effect_category",
+    "start": "SOUTH_WEST",
+    "angles": "wqqqaawd",
+    "name": "Condition Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:zone_entity/not_animal",
+    "start": "NORTH_EAST",
+    "angles": "eeeeewaqaawa",
+    "name": "Zone Distillation: Non-Animal",
+    "modname": "Hex Casting"
+  },
+  {
+    "isGreat": true,
+    "id": "hextweaks:nuke_chunk_nowill",
+    "start": "NORTH_WEST",
+    "angles": "qdeeeeeqeedqaq",
+    "name": "hexcasting.action.hextweaks:nuke_chunk_nowill",
+    "modname": "Hex Tweaks"
+  },
+  {
+    "id": "hexcasting:zone_entity/monster",
+    "start": "SOUTH_EAST",
+    "angles": "qqqqqwdeddwq",
+    "name": "Zone Distillation: Monster",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:link/comm/send",
+    "start": "NORTH_WEST",
+    "angles": "qqqqqwdeddw",
+    "name": "Send Iota",
+    "modname": "Hexal"
+  },
+  {
+    "id": "complexhex:killbit",
+    "start": "SOUTH_EAST",
+    "angles": "wqwqwqwqwqwaqdwddwdq",
+    "name": "Kill BIT",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "complexhex:qinvert",
+    "start": "SOUTH_EAST",
+    "angles": "waqqqqqew",
+    "name": "Quaternionic Inverse",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexcasting:write",
+    "start": "EAST",
+    "angles": "deeeee",
+    "name": "Scribe\u0027s Gambit",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:place_block",
+    "start": "SOUTH_WEST",
+    "angles": "eeeeede",
+    "name": "Place Block",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "complexhex:quattomat",
+    "start": "SOUTH_EAST",
+    "angles": "wdeeeeeqeawwaeaww",
+    "name": "Matrixification",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexcasting:readable",
+    "start": "EAST",
+    "angles": "aqqqqqe",
+    "name": "Auditor\u0027s Reflection",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "moreiotas:string/chat/prefix/set",
+    "start": "SOUTH_EAST",
+    "angles": "qwaqa",
+    "name": "Sifter\u0027s Gambit",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexical:get_moon",
+    "start": "WEST",
+    "angles": "eweweweweweeweeedadw",
+    "name": "Lunar Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "oneironaut:getsoulprint",
+    "start": "EAST",
+    "angles": "qqaqwedee",
+    "name": "Soulprint Reflection",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexcasting:const/double/e",
+    "start": "EAST",
+    "angles": "aaq",
+    "name": "Euler\u0027s Reflection",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:wisp/summon/projectile",
+    "start": "NORTH_WEST",
+    "angles": "aqaeqeeeee",
+    "name": "Summon Projectile Wisp",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:count_stack",
+    "start": "EAST",
+    "angles": "qaqqwqqqw",
+    "name": "Storage Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:dye",
+    "start": "NORTH_WEST",
+    "angles": "dwaqqw",
+    "name": "Dye",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:potion/wither",
+    "start": "SOUTH_WEST",
+    "angles": "qqqqqaewawawe",
+    "name": "Black Sun\u0027s Nadir",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:glow_scroll",
+    "start": "EAST",
+    "angles": "waeqqqqedeqdqdqdqeqdwwd",
+    "name": "Illuminate Ink",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:deconstruct",
+    "start": "SOUTH_WEST",
+    "angles": "aaqwqaa",
+    "name": "Speaker\u0027s Decomposition",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:sleight",
+    "start": "WEST",
+    "angles": "aaqqadeeeq",
+    "name": "Sleight",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:block_blast_resistance",
+    "start": "EAST",
+    "angles": "qaqqqqqewaawaawa",
+    "name": "Demoman\u0027s Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:size_specklike",
+    "start": "SOUTH_WEST",
+    "angles": "adeeqed",
+    "name": "Resize Speck",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:swap_one_three",
+    "start": "NORTH_EAST",
+    "angles": "ddwqaq",
+    "name": "Reflecting Gambit",
+    "modname": "Hexical"
+  },
+  {
+    "id": "oneironaut:craftbottomlesstrinket",
+    "start": "EAST",
+    "angles": "wwqeeeeewqqqqqewwaqeqwqeqqqeqwqeq",
+    "name": "Craft Bottomless Trinket",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexcassettes:foretell",
+    "start": "WEST",
+    "angles": "eqeweweweweqedwqeeeeedww",
+    "name": "Program Purification II",
+    "modname": "Hexcassettes"
+  },
+  {
+    "id": "hexcasting:xor",
+    "start": "NORTH_WEST",
+    "angles": "dwa",
+    "name": "Exclusion Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:zone_entity/not_wisp",
+    "start": "NORTH_EAST",
+    "angles": "eewaqaweewaqaaww",
+    "name": "Zone Distillation: Non-Wisp",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexcasting:append",
+    "start": "SOUTH_WEST",
+    "angles": "edqde",
+    "name": "Integration Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "complexhex:mattoquat",
+    "start": "SOUTH_EAST",
+    "angles": "waqqqqqeeawwaeaww",
+    "name": "Quaterniation",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexcasting:halt",
+    "start": "SOUTH_WEST",
+    "angles": "aqdee",
+    "name": "Charon\u0027s Gambit",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:smelt",
+    "start": "EAST",
+    "angles": "wqqqwqqadad",
+    "name": "Smelt",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:get_hand_lamp_use_time",
+    "start": "SOUTH_WEST",
+    "angles": "qwddedqwddwa",
+    "name": "Genie Reflection: Temporal",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcassettes:specs",
+    "start": "EAST",
+    "angles": "qeqwqwqwqwqeqaweqqqqq",
+    "name": "Threading Reflection",
+    "modname": "Hexcassettes"
+  },
+  {
+    "id": "hexal:wisp/transfer/others/disallow",
+    "start": "SOUTH_WEST",
+    "angles": "eeeeeqeaqaawqeeeee",
+    "name": "Disallow Transfer Others",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexcasting:get_entity/living",
+    "start": "SOUTH_EAST",
+    "angles": "qqqqqdaqaawd",
+    "name": "Entity Purification: Living",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "moreiotas:altadd",
+    "start": "EAST",
+    "angles": "waawawaeawwaea",
+    "name": "Additive Distillation II",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexical:key_shelf",
+    "start": "EAST",
+    "angles": "qaqqadaq",
+    "name": "Librarian\u0027s Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:place_type",
+    "start": "WEST",
+    "angles": "eeeeedeeeee",
+    "name": "Place Block II",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexdebug:next_eval_index",
+    "start": "SOUTH_WEST",
+    "angles": "dedqdeqwaa",
+    "name": "Debug Locator\u0027s Reflection",
+    "modname": "HexDebug"
+  },
+  {
+    "id": "hexcasting:slice",
+    "start": "NORTH_WEST",
+    "angles": "qaeaqwded",
+    "name": "Selection Exaltation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:mote/make",
+    "start": "WEST",
+    "angles": "eaqa",
+    "name": "Mediafy Item",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:get_arch_lamp_media",
+    "start": "NORTH_EAST",
+    "angles": "qaqwddedaeeeee",
+    "name": "Archgenie Reflection: Media",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:extinguish",
+    "start": "SOUTH_WEST",
+    "angles": "ddedwdwd",
+    "name": "Extinguish Area",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:env_circle",
+    "start": "NORTH_EAST",
+    "angles": "waaqdeaqwqae",
+    "name": "Constructed Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:wisp/summon/ticking",
+    "start": "NORTH_WEST",
+    "angles": "aqaweewaqawee",
+    "name": "Summon Cyclic Wisp",
+    "modname": "Hexal"
+  },
+  {
+    "id": "moreiotas:altdiv",
+    "start": "NORTH_EAST",
+    "angles": "wdedwdwwdqdww",
+    "name": "Division Distillation II",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexcasting:splat",
+    "start": "NORTH_WEST",
+    "angles": "qwaeawq",
+    "name": "Flock\u0027s Disintegration",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:get_dimension",
+    "start": "WEST",
+    "angles": "qwqwqwqwqwqqaedwaqd",
+    "name": "Plane Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:recharge",
+    "start": "NORTH_WEST",
+    "angles": "qqqqqwaeaeaeaeaea",
+    "name": "Recharge Item",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:theodolite",
+    "start": "EAST",
+    "angles": "wqaa",
+    "name": "Theodolite\u0027s Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:serialize_pattern",
+    "start": "EAST",
+    "angles": "wqaedeqd",
+    "name": "Chirographer\u0027s Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:over",
+    "start": "EAST",
+    "angles": "aaedd",
+    "name": "Prospector\u0027s Gambit",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:link/comm/open_transmit",
+    "start": "WEST",
+    "angles": "qwdedwq",
+    "name": "Open Transmit",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexal:gate/close",
+    "start": "WEST",
+    "angles": "qqqwwqqqwqqawdedw",
+    "name": "Gate\u0027s Closing",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexcassettes:inspect",
+    "start": "WEST",
+    "angles": "eqeweweweweqedwqeeeee",
+    "name": "Program Purification",
+    "modname": "Hexcassettes"
+  },
+  {
+    "id": "hexcasting:hexvr/head_pos",
+    "start": "WEST",
+    "angles": "qqwqwqwqqw",
+    "name": "hexcasting.action.hexcasting:hexvr/head_pos",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:modify_block_replaceable",
+    "start": "NORTH_WEST",
+    "angles": "deewqaqqqqq",
+    "name": "Modify Block: Replaceable",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:moving_up",
+    "start": "SOUTH_EAST",
+    "angles": "aqaddq",
+    "name": "Charge Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hextweaks:normal",
+    "start": "SOUTH_EAST",
+    "angles": "qdewedqwqaq",
+    "name": "Normals reflection",
+    "modname": "Hex Tweaks"
+  },
+  {
+    "id": "hexical:get_player_hunger",
+    "start": "WEST",
+    "angles": "qqqadaddw",
+    "name": "Hunger Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:arccos",
+    "start": "NORTH_EAST",
+    "angles": "adeeeee",
+    "name": "Inverse Cosine Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "isGreat": true,
+    "id": "oneironaut:applynotmissing",
+    "start": "SOUTH_EAST",
+    "angles": "dqqqdqeqdwdqeqdqqqde",
+    "name": "Uplifting Resonance",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexical:get_power",
+    "start": "EAST",
+    "angles": "qwqwqwqwqwqqwwaadwdaaww",
+    "name": "Battery Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:move_specklike",
+    "start": "SOUTH_WEST",
+    "angles": "adeqaa",
+    "name": "Move Speck",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:vanish_scroll",
+    "start": "EAST",
+    "angles": "waeqqqqedeqeeweeqewee",
+    "name": "Vanish Scroll",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:magic_missile",
+    "start": "WEST",
+    "angles": "qaqww",
+    "name": "Magic Missile",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:link/unlink/others",
+    "start": "WEST",
+    "angles": "qeeeeedweqqqqqaww",
+    "name": "Unlink Others",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:blockstate_book",
+    "start": "EAST",
+    "angles": "qaqqqqqeawa",
+    "name": "Book Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:click",
+    "start": "NORTH_EAST",
+    "angles": "eqqadaq",
+    "name": "Hallucinate Click",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:health",
+    "start": "NORTH_WEST",
+    "angles": "aqwawqa",
+    "name": "Nurse\u0027s Purification",
+    "modname": "Hexal"
+  },
+  {
+    "id": "oneironaut:detectshroud",
+    "start": "SOUTH_EAST",
+    "angles": "qqqqqwwaawewaawdww",
+    "name": "Discern Shroud",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexcasting:craft/cypher",
+    "start": "EAST",
+    "angles": "waqqqqq",
+    "name": "Craft Cypher",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:modify_block_bouncy",
+    "start": "NORTH_WEST",
+    "angles": "deeqa",
+    "name": "Modify Block: Bouncy",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:coerce_axial",
+    "start": "NORTH_WEST",
+    "angles": "qqqqqaww",
+    "name": "Axial Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "oneironaut:getdim/overworld",
+    "start": "NORTH_EAST",
+    "angles": "wqwqwqwqwqwawedewdwedew",
+    "name": "Homeland Reflection",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexal:wisp/hex",
+    "start": "SOUTH_EAST",
+    "angles": "aweewaqaweewaawww",
+    "name": "Manager\u0027s Purification",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexal:current_tick",
+    "start": "NORTH_WEST",
+    "angles": "ddwaa",
+    "name": "Timekeeper\u0027s Reflection",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:shout_telepathy",
+    "start": "EAST",
+    "angles": "daqqqqwa",
+    "name": "Shout Thought",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:shader_spider",
+    "start": "NORTH_EAST",
+    "angles": "qaqdedaedqqdedaqaedeqd",
+    "name": "Split Vision",
+    "modname": "Hexical"
+  },
+  {
+    "isGreat": true,
+    "id": "hextweaks:you_like_drinking_potions",
+    "start": "SOUTH_WEST",
+    "angles": "wdwawwwawwwawqwewewewew",
+    "name": "hexcasting.action.hextweaks:you_like_drinking_potions",
+    "modname": "Hex Tweaks"
+  },
+  {
+    "id": "hexcasting:explode",
+    "start": "EAST",
+    "angles": "aawaawaa",
+    "name": "Explosion",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:shader_owl",
+    "start": "WEST",
+    "angles": "edewawede",
+    "name": "Pierce Darkness",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:const/vec/nx",
+    "start": "SOUTH_WEST",
+    "angles": "eeeeeqa",
+    "name": "Vector Reflection -X",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:wisp/trigger/move",
+    "start": "EAST",
+    "angles": "eqwawqwaqww",
+    "name": "Wander",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexcasting:rotate_reverse",
+    "start": "NORTH_EAST",
+    "angles": "ddqdd",
+    "name": "Rotation Gambit II",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "complexhex:cnarg",
+    "start": "SOUTH_EAST",
+    "angles": "waqqqqqeww",
+    "name": "hexcasting.action.complexhex:cnarg",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexcasting:write/entity",
+    "start": "EAST",
+    "angles": "wdwewewewewew",
+    "name": "Chronicler\u0027s Gambit",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:shader_lines",
+    "start": "WEST",
+    "angles": "eedwwawwdee",
+    "name": "Visualize Forms",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:promote_lamp",
+    "start": "WEST",
+    "angles": "qweedeqeedeqdqdwewewwewewwewe",
+    "name": "Promote Lamp",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:destroy_water",
+    "start": "SOUTH_WEST",
+    "angles": "dedwedade",
+    "name": "Destroy Liquid",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:const/vec/ny",
+    "start": "SOUTH_WEST",
+    "angles": "eeeeeqw",
+    "name": "Vector Reflection -Y",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "complexhex:qz",
+    "start": "SOUTH_EAST",
+    "angles": "wdeeeeeqd",
+    "name": "Quaterionic Prfn: k",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "moreiotas:type/iota",
+    "start": "SOUTH_WEST",
+    "angles": "awd",
+    "name": "Classifier\u0027s Purification",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexcasting:const/double/pi",
+    "start": "NORTH_EAST",
+    "angles": "qdwdq",
+    "name": "Arc\u0027s Reflection",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:wisp/trigger/tick",
+    "start": "NORTH_WEST",
+    "angles": "aqawded",
+    "name": "Delay Wisp",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:blockstate_turn",
+    "start": "EAST",
+    "angles": "qaqqqqqwqqwqd",
+    "name": "Angle Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:get_effects_entity",
+    "start": "SOUTH_WEST",
+    "angles": "wqqq",
+    "name": "Diagnosis Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:sentinel/wayfind",
+    "start": "EAST",
+    "angles": "waeawaedwa",
+    "name": "Wayfind Sentinel",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:remove_from",
+    "start": "SOUTH_WEST",
+    "angles": "edqdewaqa",
+    "name": "Excisor\u0027s Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:wisp/move/speed/get",
+    "start": "EAST",
+    "angles": "eeewdqdee",
+    "name": "Speedometer\u0027s Reflection",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:pling",
+    "start": "NORTH_EAST",
+    "angles": "eqqqada",
+    "name": "Hallucinate Pling",
+    "modname": "Hexical"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:create_lava",
+    "start": "WEST",
+    "angles": "aedeqawqaqq",
+    "name": "Create Lava",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:hexvr/left_hand_rot",
+    "start": "WEST",
+    "angles": "ewd",
+    "name": "hexcasting.action.hexcasting:hexvr/left_hand_rot",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "oneironaut:getdim/nether",
+    "start": "NORTH_EAST",
+    "angles": "wqwqwqwqwqwaqaaqaw",
+    "name": "Inferno Reflection",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexical:is_meat",
+    "start": "WEST",
+    "angles": "adaqqqddaed",
+    "name": "Flesh Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:swap_two_three",
+    "start": "EAST",
+    "angles": "aawede",
+    "name": "Bubbling Gambit",
+    "modname": "Hexical"
+  },
+  {
+    "id": "oneironaut:writerodram",
+    "start": "NORTH_WEST",
+    "angles": "eqqwqqqwaaw",
+    "name": "Williams\u0027 Gambit",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hextweaks:sbe_entities",
+    "start": "SOUTH_EAST",
+    "angles": "qqqqqwdeddeeawaeaw",
+    "name": "hexcasting.action.hextweaks:sbe_entities",
+    "modname": "Hex Tweaks"
+  },
+  {
+    "id": "hexal:link/comm/close_transmit",
+    "start": "EAST",
+    "angles": "ewaqawe",
+    "name": "Close Transmit",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexcasting:empty_list",
+    "start": "NORTH_EAST",
+    "angles": "qqaeaae",
+    "name": "Vacant Reflection",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:const/vec/nz",
+    "start": "SOUTH_WEST",
+    "angles": "eeeeeqd",
+    "name": "Vector Reflection -Z",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:mote/storage/remaining_capacity/get",
+    "start": "SOUTH_EAST",
+    "angles": "awedqdewa",
+    "name": "Capacity Reflection",
+    "modname": "Hexal"
+  },
+  {
+    "id": "moreiotas:string/chat/all",
+    "start": "EAST",
+    "angles": "wded",
+    "name": "Listener\u0027s Reflection",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexical:maat",
+    "start": "NORTH_EAST",
+    "angles": "qed",
+    "name": "Ma\u0027at\u0027s Gambit",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:mote/use_on",
+    "start": "EAST",
+    "angles": "qqqwqqqqaa",
+    "name": "Use Item On",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexcasting:get_entity/item",
+    "start": "SOUTH_EAST",
+    "angles": "qqqqqdaqaaww",
+    "name": "Entity Purification: Item",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:get_hand_lamp_velocity",
+    "start": "SOUTH_WEST",
+    "angles": "qwddedqew",
+    "name": "Genie Reflection: Kinetic",
+    "modname": "Hexical"
+  },
+  {
+    "isGreat": true,
+    "id": "hexal:wisp/consume",
+    "start": "SOUTH_EAST",
+    "angles": "wawqwawwwewwwewewewwwewdwqeeeeewaqaewqddaaeewawqwaw",
+    "name": "Consume Wisp",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexcasting:get_entity_look",
+    "start": "EAST",
+    "angles": "wa",
+    "name": "Alidade\u0027s Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:sneaking",
+    "start": "NORTH_WEST",
+    "angles": "wede",
+    "name": "Stealthy Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:blockstate_rotation",
+    "start": "EAST",
+    "angles": "qaqqqqqwadeeed",
+    "name": "Orientation Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "complexhex:qmake",
+    "start": "SOUTH_EAST",
+    "angles": "waqqqqqe",
+    "name": "Quaternionic Exal.",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexical:conjure_compass",
+    "start": "SOUTH_WEST",
+    "angles": "aqwawqwqqwqwq",
+    "name": "Conjure Compass",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:unappend",
+    "start": "NORTH_WEST",
+    "angles": "qaeaq",
+    "name": "Derivation Decomposition",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "moreiotas:string/newline",
+    "start": "EAST",
+    "angles": "waawaw",
+    "name": "Breaking Reflection",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexical:get_hand_lamp_media",
+    "start": "SOUTH_WEST",
+    "angles": "qwddedaeeeee",
+    "name": "Genie Reflection: Media",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:circle/bounds/min",
+    "start": "SOUTH_WEST",
+    "angles": "eaqwqaewdd",
+    "name": "Lesser Fold Reflection",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "complexhex:imaginary",
+    "start": "SOUTH_WEST",
+    "angles": "wqqe",
+    "name": "Imagining Complexities",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexcassettes:killall",
+    "start": "WEST",
+    "angles": "eqeweweweweqedwqeeeeewwqqwqwqqw",
+    "name": "Disqueue",
+    "modname": "Hexcassettes"
+  },
+  {
+    "id": "hexal:link/comm/num",
+    "start": "SOUTH_EAST",
+    "angles": "aweeeeewaa",
+    "name": "Postmaster\u0027s Reflection",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:edible",
+    "start": "WEST",
+    "angles": "adaqqqdd",
+    "name": "Edibility Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:shuffle_pattern",
+    "start": "NORTH_EAST",
+    "angles": "aqqqdae",
+    "name": "Glyphmaker\u0027s Distillation",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hextweaks:page/right",
+    "start": "SOUTH_WEST",
+    "angles": "qqaw",
+    "name": "Progress Gambit",
+    "modname": "Hex Tweaks"
+  },
+  {
+    "id": "hexdebug:block_read_indexed",
+    "start": "EAST",
+    "angles": "aqqqqqedwewewewdw",
+    "name": "hexcasting.action.hexdebug:block_read_indexed",
+    "modname": "HexDebug"
+  },
+  {
+    "id": "hexical:myodesopsia",
+    "start": "SOUTH_EAST",
+    "angles": "wadawadawawaaw",
+    "name": "Myodesopsia",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:get_hand_lamp_position",
+    "start": "SOUTH_WEST",
+    "angles": "qwddedqdd",
+    "name": "Genie Reflection: Spatial",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexdebug:breakpoint/before",
+    "start": "SOUTH_WEST",
+    "angles": "awqdeew",
+    "name": "Set Breakpoint Before",
+    "modname": "HexDebug"
+  },
+  {
+    "id": "hexical:roll_specklike",
+    "start": "SOUTH_WEST",
+    "angles": "adeqqqqq",
+    "name": "Roll Speck",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:wish",
+    "start": "NORTH_WEST",
+    "angles": "eweweweweweewedeaqqqd",
+    "name": "Wish",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcassettes:free",
+    "start": "EAST",
+    "angles": "qeqwqwqwqwqeqaweqqqqqwweeweweew",
+    "name": "Threading Reflection II",
+    "modname": "Hexcassettes"
+  },
+  {
+    "id": "oneironaut:rodloopactive",
+    "start": "SOUTH_EAST",
+    "angles": "qwqqqwqaqded",
+    "name": "Conductor\u0027s Reflection II",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexcasting:writable",
+    "start": "EAST",
+    "angles": "deeeeeq",
+    "name": "Assessor\u0027s Reflection",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:stack_len",
+    "start": "NORTH_WEST",
+    "angles": "qwaeawqaeaqa",
+    "name": "Flock\u0027s Reflection",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:construct",
+    "start": "SOUTH_EAST",
+    "angles": "ddewedd",
+    "name": "Speaker\u0027s Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:wristpocket_count",
+    "start": "WEST",
+    "angles": "aaqqaaw",
+    "name": "Pocket Reflection II",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:interop/pehkui/set",
+    "start": "NORTH_EAST",
+    "angles": "ddwdwwdwwd",
+    "name": "Alter Scale",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:shader_clear",
+    "start": "WEST",
+    "angles": "eeeeeqaqeeeee",
+    "name": "Clear Vision",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:zone_entity",
+    "start": "SOUTH_EAST",
+    "angles": "qqqqqwded",
+    "name": "Zone Distillation: Any",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:is_sleeping",
+    "start": "NORTH_WEST",
+    "angles": "aqaew",
+    "name": "Sloth\u0027s Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "complexhex:qx",
+    "start": "SOUTH_EAST",
+    "angles": "wdeeeeeqq",
+    "name": "Quaterionic Prfn.: i",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexcasting:equals",
+    "start": "EAST",
+    "angles": "ad",
+    "name": "Equality Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:deserialize_pattern",
+    "start": "EAST",
+    "angles": "wqqqaqwd",
+    "name": "Calligrapher\u0027s Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcellular:set_property",
+    "start": "SOUTH_WEST",
+    "angles": "aawq",
+    "name": "Schrödinger\u0027s Gambit",
+    "modname": "Hexcellular"
+  },
+  {
+    "id": "hexal:interop/fabric_only/phase_block",
+    "start": "WEST",
+    "angles": "daqqqa",
+    "name": "Phase Block",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexal:running/mul",
+    "start": "NORTH_EAST",
+    "angles": "qaawaaq",
+    "name": "Running Product Purification",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexcasting:duplicate",
+    "start": "EAST",
+    "angles": "aadaa",
+    "name": "Gemini Decomposition",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "oneironaut:delayrod",
+    "start": "SOUTH_EAST",
+    "angles": "qwqqqwqaqddq",
+    "name": "Metronome Gambit",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexical:take_on_pigment",
+    "start": "EAST",
+    "angles": "weeeweeqeeeewqaqweeee",
+    "name": "Internalize Pigment II",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:or",
+    "start": "SOUTH_EAST",
+    "angles": "waw",
+    "name": "Disjunction Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:conjure_speck",
+    "start": "SOUTH_WEST",
+    "angles": "ade",
+    "name": "Conjure Speck",
+    "modname": "Hexical"
+  },
+  {
+    "id": "complexhex:real",
+    "start": "SOUTH_WEST",
+    "angles": "wqqd",
+    "name": "Realising Complexities",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexcasting:zone_entity/not_item",
+    "start": "NORTH_EAST",
+    "angles": "eeeeewaqaaww",
+    "name": "Zone Distillation: Non-Item",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcassettes:dequeue",
+    "start": "WEST",
+    "angles": "eqeweweweweqedwqeeeeewwqqwqwqqweawwqwqwwqwwqwqww",
+    "name": "Dequeue",
+    "modname": "Hexcassettes"
+  },
+  {
+    "id": "hexcasting:replace",
+    "start": "NORTH_WEST",
+    "angles": "wqaeaqw",
+    "name": "Surgeon\u0027s Exaltation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "complexhex:const/complex/1",
+    "start": "SOUTH_WEST",
+    "angles": "wqqa",
+    "name": "Constant Realisation",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexical:simulate_firework",
+    "start": "SOUTH_WEST",
+    "angles": "dedwaqwqqwqa",
+    "name": "Simulate Firework",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:prestidigitation",
+    "start": "NORTH_EAST",
+    "angles": "wedewedew",
+    "name": "Prestidigitation",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:modify_block_volatile",
+    "start": "NORTH_WEST",
+    "angles": "deewedeeeee",
+    "name": "Modify Block: Volatile",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:read/entity",
+    "start": "EAST",
+    "angles": "wawqwqwqwqwqw",
+    "name": "Chronicler\u0027s Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:conjure_mage_block",
+    "start": "NORTH_WEST",
+    "angles": "dee",
+    "name": "Conjure Mage Block",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:modulo",
+    "start": "NORTH_EAST",
+    "angles": "addwaad",
+    "name": "Modulus Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "oneironaut:getdim2",
+    "start": "WEST",
+    "angles": "wqwqwqwqwqwaqeeq",
+    "name": "Spatial Reflection II",
+    "modname": "Oneironaut"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:brainsweep",
+    "start": "SOUTH_EAST",
+    "angles": "dweeeqeaqwqwqqqeqdewqdewdqdwe",
+    "name": "Flay Mind",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:blink",
+    "start": "SOUTH_WEST",
+    "angles": "awqqqwaq",
+    "name": "Blink",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:env_hand_lamp",
+    "start": "NORTH_EAST",
+    "angles": "waaqdqdded",
+    "name": "Wish Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:jumping",
+    "start": "SOUTH_WEST",
+    "angles": "qaqdaqqa",
+    "name": "Leaping Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:interop/pehkui/get",
+    "start": "NORTH_WEST",
+    "angles": "aawawwawwa",
+    "name": "Gulliver\u0027s Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:shader_tv",
+    "start": "WEST",
+    "angles": "wewdwewwawwewdwew",
+    "name": "Broadcast Vision",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:mote/storage/set",
+    "start": "SOUTH_EAST",
+    "angles": "eeeeedw",
+    "name": "Depot Gambit",
+    "modname": "Hexal"
+  },
+  {
+    "id": "moreiotas:matrix/concat/vert",
+    "start": "SOUTH_WEST",
+    "angles": "awwaeawwawawdedwa",
+    "name": "Tower Distillation",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexical:pigment_specklike",
+    "start": "SOUTH_WEST",
+    "angles": "adeqqaq",
+    "name": "Paint Speck",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:get_biome",
+    "start": "WEST",
+    "angles": "qwqwqawdqqaqqdwaqwqwq",
+    "name": "Geographical Purification",
+    "modname": "Hexical"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:craft/battery",
+    "start": "NORTH_EAST",
+    "angles": "aeqwqeaadqwqdeweweedqqeedewqqeadd",
+    "name": "Craft Phial",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:send_telepathy",
+    "start": "EAST",
+    "angles": "qqqqwaqa",
+    "name": "Send Thought",
+    "modname": "Hexical"
+  },
+  {
+    "id": "moreiotas:matrix/determinant",
+    "start": "WEST",
+    "angles": "aeawwaeawaw",
+    "name": "Determinant Purification",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexcasting:const/vec/pz",
+    "start": "NORTH_WEST",
+    "angles": "qqqqqed",
+    "name": "Vector Reflection +Z",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:mul",
+    "start": "SOUTH_EAST",
+    "angles": "waqaw",
+    "name": "Multiplicative Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "moreiotas:matrix/unmake/direct",
+    "start": "SOUTH_EAST",
+    "angles": "dwwdqdwwdwdwa",
+    "name": "Restoration Purification II",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexical:lifetime_specklike",
+    "start": "SOUTH_WEST",
+    "angles": "adeqqaawdd",
+    "name": "Time Speck",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:get_effect_duration",
+    "start": "SOUTH_WEST",
+    "angles": "wqqqaqwdd",
+    "name": "Clearance Distillation",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:get_enchantment_strength",
+    "start": "WEST",
+    "angles": "waqwwqaweede",
+    "name": "Charm Distillation",
+    "modname": "Hexical"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:potion/night_vision",
+    "start": "SOUTH_WEST",
+    "angles": "qdwdwddeeeeaa",
+    "name": "Blue Sun\u0027s Zenith",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:conjure_tchotchke",
+    "start": "NORTH_EAST",
+    "angles": "wwwwwaqqqqqeaqeaeaeaeaeq",
+    "name": "Conjure Tchotchke",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:get_hand_lamp_storage",
+    "start": "SOUTH_WEST",
+    "angles": "qwddedqwaqqqqq",
+    "name": "Genie Reflection: Memory",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:conjure_block",
+    "start": "NORTH_EAST",
+    "angles": "qqa",
+    "name": "Conjure Block",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:factorial",
+    "start": "SOUTH_EAST",
+    "angles": "wawdedwaw",
+    "name": "Factorial Purification",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:get_max_health",
+    "start": "SOUTH_EAST",
+    "angles": "wddwwawaeqwawq",
+    "name": "Fitness Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "moreiotas:matrix/concat/hori",
+    "start": "SOUTH_EAST",
+    "angles": "dwwdqdwwdwdwaqawd",
+    "name": "Sprawling Distillation",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexical:get_player_saturation",
+    "start": "WEST",
+    "angles": "qqqadaddq",
+    "name": "Stamina Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:mote/craft",
+    "start": "SOUTH_EAST",
+    "angles": "wwawdedwawdewwdwaqawdwwedwawdedwaww",
+    "name": "Craft",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:translate_dye",
+    "start": "EAST",
+    "angles": "wdwwaawwewdwwewwdwwe",
+    "name": "Vision Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:erase",
+    "start": "EAST",
+    "angles": "qdqawwaww",
+    "name": "Erase Item",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:gate/mark/get",
+    "start": "EAST",
+    "angles": "edwwdeeede",
+    "name": "Marked Distillation",
+    "modname": "Hexal"
+  },
+  {
+    "id": "complexhex:const/complex/i",
+    "start": "SOUTH_WEST",
+    "angles": "wqq",
+    "name": "Constant Imagination",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexical:get_health",
+    "start": "SOUTH_EAST",
+    "angles": "wddwaqqwawq",
+    "name": "Vitality Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:env_turret",
+    "start": "NORTH_EAST",
+    "angles": "waaqeqdewedq",
+    "name": "Turret Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:link/get_index",
+    "start": "SOUTH_WEST",
+    "angles": "aeqqqqqawwd",
+    "name": "Recognition Purification",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexcasting:zone_entity/living",
+    "start": "SOUTH_EAST",
+    "angles": "qqqqqwdeddwd",
+    "name": "Zone Distillation: Living",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:fluid_surface_raycast",
+    "start": "EAST",
+    "angles": "weedewqaq",
+    "name": "Lilypad Distillation",
+    "modname": "Hexical"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:summon_rain",
+    "start": "EAST",
+    "angles": "wwwddawdwadweewwwee",
+    "name": "Summon Rain",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:is_snack",
+    "start": "WEST",
+    "angles": "adaqqqddaq",
+    "name": "Dessert Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:env_staff",
+    "start": "NORTH_EAST",
+    "angles": "waaq",
+    "name": "Staff Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:get_weather",
+    "start": "WEST",
+    "angles": "eweweweweweeeaedqdqde",
+    "name": "Meterologist\u0027s Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:get_einstein",
+    "start": "SOUTH_WEST",
+    "angles": "aqwawqwqqwqwqwqwqwq",
+    "name": "Distortion Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:env_offhand",
+    "start": "NORTH_EAST",
+    "angles": "qaqqqwaaq",
+    "name": "Dexterity Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:gate/mark",
+    "start": "WEST",
+    "angles": "qaqeede",
+    "name": "Gate\u0027s Opening",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexal:link/num",
+    "start": "WEST",
+    "angles": "qeeeeedww",
+    "name": "Popularity Reflection",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexcasting:const/vec/0",
+    "start": "NORTH_WEST",
+    "angles": "qqqqq",
+    "name": "Vector Reflection Zero",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "moreiotas:matrix/unmake",
+    "start": "SOUTH_EAST",
+    "angles": "dwwdqdwwddawd",
+    "name": "Restoration Purification",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "complexhex:qunmake",
+    "start": "SOUTH_EAST",
+    "angles": "wdeeeeeq",
+    "name": "Quaternionic Dntg.",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexcasting:bonemeal",
+    "start": "NORTH_EAST",
+    "angles": "wqaqwawqaqw",
+    "name": "Overgrow",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:and",
+    "start": "NORTH_EAST",
+    "angles": "wdw",
+    "name": "Conjunction Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:moving_down",
+    "start": "SOUTH_WEST",
+    "angles": "dedwdq",
+    "name": "Retreat Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcellular:observe_property",
+    "start": "SOUTH_WEST",
+    "angles": "aawd",
+    "name": "Observation Purification",
+    "modname": "Hexcellular"
+  },
+  {
+    "id": "hexcasting:potion/weakness",
+    "start": "NORTH_WEST",
+    "angles": "qqqqqaqwawaw",
+    "name": "White Sun\u0027s Nadir",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "complexhex:zone_entity/bit",
+    "start": "SOUTH_EAST",
+    "angles": "qqwwewewewewewwqqwdeddww",
+    "name": "Zone Distillation: BIT",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "oneironaut:getrodpos",
+    "start": "SOUTH_EAST",
+    "angles": "qwqqqwqawaa",
+    "name": "Baton Reflection II",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexal:everbook/delete",
+    "start": "SOUTH_EAST",
+    "angles": "qwqqqwqaww",
+    "name": "Lethe\u0027s Gambit",
+    "modname": "Hexal"
+  },
+  {
+    "isGreat": true,
+    "id": "hexical:conjure_mesh",
+    "start": "NORTH_EAST",
+    "angles": "qqwqdeeeaqqwqwqqeqqqaeqqqwq",
+    "name": "Conjure Mesh",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:pow",
+    "start": "NORTH_WEST",
+    "angles": "wedew",
+    "name": "Power Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:classify",
+    "start": "WEST",
+    "angles": "edqdeq",
+    "name": "Classifier\u0027s Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:blockstate_glow",
+    "start": "EAST",
+    "angles": "qaqqqqqwaeaeaeaeaea",
+    "name": "Glowing Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "moreiotas:matrix/split/hori",
+    "start": "SOUTH_WEST",
+    "angles": "dwaqawdwdwwdqdwwd",
+    "name": "Mitosis Gambit",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexical:env_tchotchke",
+    "start": "NORTH_EAST",
+    "angles": "waaqwwaqqqqqeaqeaeaeaeaeq",
+    "name": "Tchotchke Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexdebug:block_read",
+    "start": "EAST",
+    "angles": "aqqqqqeawqwaw",
+    "name": "hexcasting.action.hexdebug:block_read",
+    "modname": "HexDebug"
+  },
+  {
+    "isGreat": true,
+    "id": "hexal:tick",
+    "start": "SOUTH_WEST",
+    "angles": "qawdwdwaqqwqeqwqqawdwdwaq",
+    "name": "Accelerate",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexal:mote/storage/bind/temp",
+    "start": "NORTH_EAST",
+    "angles": "edewedewede",
+    "name": "Bind Storage - Temporary",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:soroban_decrement",
+    "start": "SOUTH_EAST",
+    "angles": "waqdee",
+    "name": "Soroban Reflection II",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:add_motion",
+    "start": "SOUTH_WEST",
+    "angles": "awqqqwaqw",
+    "name": "Impulse",
+    "modname": "Hex Casting"
+  },
+  {
+    "isGreat": true,
+    "id": "oneironaut:resistdetection",
+    "start": "NORTH_EAST",
+    "angles": "qeeqawawadedaaedw",
+    "name": "Stealth Shroud",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexical:env_evocation",
+    "start": "NORTH_EAST",
+    "angles": "waaqeaqa",
+    "name": "Evocation Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:last_n_list",
+    "start": "SOUTH_WEST",
+    "angles": "ewdqdwe",
+    "name": "Flock\u0027s Gambit",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "complexhex:const/quaternion/k",
+    "start": "SOUTH_EAST",
+    "angles": "waqqqqqed",
+    "name": "Quaternionic Rfln: k",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexal:particles",
+    "start": "NORTH_EAST",
+    "angles": "eqqqqa",
+    "name": "Particles",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexcasting:get_entity/animal",
+    "start": "SOUTH_EAST",
+    "angles": "qqqqqdaqaawa",
+    "name": "Entity Purification: Animal",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:damage_max_stack",
+    "start": "NORTH_WEST",
+    "angles": "qqwqqqwaqe",
+    "name": "Fragility Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "oneironaut:checksignature",
+    "start": "EAST",
+    "angles": "qqaqwedeed",
+    "name": "Signature Purification",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "moreiotas:altmul",
+    "start": "SOUTH_EAST",
+    "angles": "waqawawwaeaww",
+    "name": "Multiplicative Distillation II",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexal:wisp/transfer/others/allow",
+    "start": "SOUTH_WEST",
+    "angles": "eeeeeqwweqqqqq",
+    "name": "Allow Transfer Others",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexcasting:thanatos",
+    "start": "SOUTH_EAST",
+    "angles": "qqaed",
+    "name": "Thanatos\u0027 Reflection",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "oneironaut:getdim1",
+    "start": "WEST",
+    "angles": "wqwqwqwqwqwaeqqe",
+    "name": "Spatial Reflection",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexal:get_entity/wisp",
+    "start": "SOUTH_EAST",
+    "angles": "qqwdedwqqdaqaaww",
+    "name": "Entity Purification: Wisp",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:blockstate_waterlogged",
+    "start": "SOUTH_EAST",
+    "angles": "edeeeeeqwqqqqw",
+    "name": "Plumber\u0027s Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:spike",
+    "start": "NORTH_EAST",
+    "angles": "qdqdqdqdww",
+    "name": "Conjure Spike",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:get_effect_amplifier",
+    "start": "SOUTH_WEST",
+    "angles": "wqqqaqwa",
+    "name": "Concentration Distillation",
+    "modname": "Hexical"
+  },
+  {
+    "id": "oneironaut:queryrod",
+    "start": "SOUTH_EAST",
+    "angles": "qwqqqwqaeaqa",
+    "name": "Conductor\u0027s Reflection",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexcasting:greater",
+    "start": "SOUTH_EAST",
+    "angles": "e",
+    "name": "Maximus Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:has_arch_lamp",
+    "start": "NORTH_EAST",
+    "angles": "qaqwddedqeed",
+    "name": "Archgenie Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:set_arch_lamp_storage",
+    "start": "NORTH_EAST",
+    "angles": "qaqwddedqedeeeee",
+    "name": "Archgenie Gambit",
+    "modname": "Hexical"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:flight",
+    "start": "WEST",
+    "angles": "eddwawawdwdq",
+    "name": "Altiora",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:duplicate_n",
+    "start": "EAST",
+    "angles": "aadaadaa",
+    "name": "Gemini Gambit",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:ghast_fireball",
+    "start": "SOUTH_EAST",
+    "angles": "wqqqqqwaeaeaeaeae",
+    "name": "Conjure Fireball",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:block_hardness",
+    "start": "EAST",
+    "angles": "qaqqqqqeeeeedq",
+    "name": "Miner\u0027s Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:thickness_specklike",
+    "start": "SOUTH_WEST",
+    "angles": "adeeqw",
+    "name": "Thicken Speck",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:wisp/owner",
+    "start": "SOUTH_WEST",
+    "angles": "dwqqwdedwqqwddwww",
+    "name": "Allegiance Distillation",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:mage_mouth",
+    "start": "WEST",
+    "angles": "aaqqadaa",
+    "name": "Mage Mouth",
+    "modname": "Hexical"
+  },
+  {
+    "isGreat": true,
+    "id": "hextweaks:infusion",
+    "start": "WEST",
+    "angles": "aadqedeqqawddeweddwaa",
+    "name": "Infuse Will",
+    "modname": "Hex Tweaks"
+  },
+  {
+    "isGreat": true,
+    "id": "hexal:wisp/seon/set",
+    "start": "WEST",
+    "angles": "wweqaeaqdqqdqaeaqdqqe",
+    "name": "Bind Wisp",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexal:zone_entity/wisp",
+    "start": "SOUTH_EAST",
+    "angles": "qqwdedwqqwdeddww",
+    "name": "Zone Distillation: Wisp",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:to_pigment",
+    "start": "NORTH_WEST",
+    "angles": "aqwedeweeeewweeew",
+    "name": "Pigment Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "moreiotas:string/case",
+    "start": "WEST",
+    "angles": "dwwdwwdwdd",
+    "name": "Case Distillation",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexcasting:tuck",
+    "start": "EAST",
+    "angles": "ddqaa",
+    "name": "Undertaker\u0027s Gambit",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:logarithm",
+    "start": "NORTH_WEST",
+    "angles": "eqaqe",
+    "name": "Logarithmic Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:zone_specklike",
+    "start": "SOUTH_EAST",
+    "angles": "qqqqqwdeddwqde",
+    "name": "Zone Distillation: Speck",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:mote/combinable",
+    "start": "SOUTH_WEST",
+    "angles": "dedqeaqa",
+    "name": "Stacking Distillation II",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexcasting:zone_entity/player",
+    "start": "SOUTH_EAST",
+    "angles": "qqqqqwdeddwe",
+    "name": "Zone Distillation: Player",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:tutu",
+    "start": "WEST",
+    "angles": "eedqa",
+    "name": "Tutu\u0027s Gambit",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:mote/contained_type/get",
+    "start": "NORTH_EAST",
+    "angles": "dwqqqqqwddww",
+    "name": "Stocktake Reflection",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexal:light_level",
+    "start": "NORTH_EAST",
+    "angles": "qedqde",
+    "name": "Lamplighter\u0027s Purification",
+    "modname": "Hexal"
+  },
+  {
+    "id": "moreiotas:item/inventory/items",
+    "start": "NORTH_EAST",
+    "angles": "dewqa",
+    "name": "Collector\u0027s Distillation",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexcasting:random",
+    "start": "NORTH_WEST",
+    "angles": "eqqq",
+    "name": "Entropy Reflection",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:mote/split",
+    "start": "EAST",
+    "angles": "eaqaaw",
+    "name": "Splitting Gambit",
+    "modname": "Hexal"
+  },
+  {
+    "id": "ducky-periphs:conjure_ducky",
+    "start": "NORTH_EAST",
+    "angles": "aqadweeeede",
+    "name": "hexcasting.action.ducky-periphs:conjure_ducky",
+    "modname": "Ducky Peripherals"
+  },
+  {
+    "id": "hexical:modify_block_energized",
+    "start": "NORTH_WEST",
+    "angles": "deewad",
+    "name": "Modify Block: Energized",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:rotate",
+    "start": "EAST",
+    "angles": "aaeaa",
+    "name": "Rotation Gambit",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:perlin",
+    "start": "WEST",
+    "angles": "qawedqdq",
+    "name": "Perlin Distillation",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:print",
+    "start": "NORTH_EAST",
+    "angles": "de",
+    "name": "Reveal",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "complexhex:zone_entity/not_bit",
+    "start": "NORTH_EAST",
+    "angles": "eewwqwqwqwqwqwweewaqaaww",
+    "name": "Zone Distillation: Not BIT",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "moreiotas:matrix/make",
+    "start": "SOUTH_WEST",
+    "angles": "awwaeawwaadwa",
+    "name": "Transformation Purification",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexical:conjure_hextito",
+    "start": "EAST",
+    "angles": "qaqdqaqdwawaw",
+    "name": "Conjure Hextito",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:atalanta",
+    "start": "SOUTH_WEST",
+    "angles": "aqdea",
+    "name": "Atalanta\u0027s Gambit",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexdebug:block_write",
+    "start": "EAST",
+    "angles": "deeeeeqdwewewewdw",
+    "name": "hexcasting.action.hexdebug:block_write",
+    "modname": "HexDebug"
+  },
+  {
+    "id": "hexical:get_offhand_stack",
+    "start": "NORTH_WEST",
+    "angles": "edeeee",
+    "name": "Accessory Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:piercing_raycast",
+    "start": "EAST",
+    "angles": "wqqddqeqddq",
+    "name": "Railgun Exaltation",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:construct_vec",
+    "start": "EAST",
+    "angles": "eqqqqq",
+    "name": "Vector Exaltation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:conjure_light",
+    "start": "NORTH_EAST",
+    "angles": "qqd",
+    "name": "Conjure Light",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:raycast",
+    "start": "EAST",
+    "angles": "wqaawdd",
+    "name": "Archer\u0027s Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hextweaks:wave",
+    "start": "SOUTH_EAST",
+    "angles": "qdewedq",
+    "name": "Wave Reflection",
+    "modname": "Hex Tweaks"
+  },
+  {
+    "id": "hexcasting:const/true",
+    "start": "SOUTH_EAST",
+    "angles": "aqae",
+    "name": "True Reflection",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:modify_block_ephemeral",
+    "start": "NORTH_WEST",
+    "angles": "deewwaawd",
+    "name": "Modify Block: Ephemeral",
+    "modname": "Hexical"
+  },
+  {
+    "id": "complexhex:qw",
+    "start": "SOUTH_EAST",
+    "angles": "wdeeeeeqa",
+    "name": "Quaterionic Prfn.: 1",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "complexhex:qmul",
+    "start": "SOUTH_EAST",
+    "angles": "waqqqqqewaqaw",
+    "name": "hexcasting.action.complexhex:qmul",
+    "modname": "Complex Hex"
+  },
+  {
+    "isGreat": true,
+    "id": "oneironaut:swapspace",
+    "start": "NORTH_EAST",
+    "angles": "dewqwadeeeewdaqewdqqqqweqqewqqqaedwqeedwqdweweadeeeaa",
+    "name": "Spatial Interchange",
+    "modname": "Oneironaut"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:teleport/great",
+    "start": "NORTH_EAST",
+    "angles": "qqwwwqqwqqawdeeaeeeeedweeewwwee",
+    "name": "Greater Teleport",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:beep",
+    "start": "WEST",
+    "angles": "adaa",
+    "name": "Make Note",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "oneironaut:readideatime",
+    "start": "WEST",
+    "angles": "qwqwqwqwqwqqqeqaqeq",
+    "name": "Metadata Purification",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "complexhex:cmul",
+    "start": "SOUTH_WEST",
+    "angles": "wqqewaqaw",
+    "name": "hexcasting.action.complexhex:cmul",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexical:get_day",
+    "start": "SOUTH_EAST",
+    "angles": "wwawwawwqqawwdwwdwwaqwqwqwqwq",
+    "name": "Circadian Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:read_mesh",
+    "start": "SOUTH_WEST",
+    "angles": "edeeeeeweeeaqqwqwqq",
+    "name": "Tangle Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:get_entity/monster",
+    "start": "SOUTH_EAST",
+    "angles": "qqqqqdaqaawq",
+    "name": "Entity Purification: Monster",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:hexvr/right_hand_pos",
+    "start": "EAST",
+    "angles": "edd",
+    "name": "hexcasting.action.hexcasting:hexvr/right_hand_pos",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:if",
+    "start": "SOUTH_EAST",
+    "angles": "awdd",
+    "name": "Augur\u0027s Exaltation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:bool_coerce",
+    "start": "NORTH_EAST",
+    "angles": "aw",
+    "name": "Augur\u0027s Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:read/local",
+    "start": "NORTH_EAST",
+    "angles": "qeewdweddw",
+    "name": "Muninn\u0027s Reflection",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "oneironaut:readrodram",
+    "start": "NORTH_EAST",
+    "angles": "qeeweeewddw",
+    "name": "Williams\u0027 Reflection",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexical:internalize_hex",
+    "start": "EAST",
+    "angles": "wwaqqqqqeqdedwwqwqwwdedwwqwqw",
+    "name": "Inculcate",
+    "modname": "Hexical"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:potion/regeneration",
+    "start": "SOUTH_EAST",
+    "angles": "dwdqeeeeeddqa",
+    "name": "White Sun\u0027s Zenith",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:mage_hand",
+    "start": "WEST",
+    "angles": "aaqqaeea",
+    "name": "Mage Hand",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:mote/storage/contains",
+    "start": "NORTH_EAST",
+    "angles": "dwqaeaqwd",
+    "name": "Containment Distillation",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:get_saturation",
+    "start": "WEST",
+    "angles": "adaqqqddqw",
+    "name": "Satiation Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:get_dye",
+    "start": "NORTH_EAST",
+    "angles": "weedwa",
+    "name": "Chromatic Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:entity_width",
+    "start": "NORTH_WEST",
+    "angles": "dwe",
+    "name": "Caliper\u0027s Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hextweaks:while",
+    "start": "NORTH_EAST",
+    "angles": "wdwadad",
+    "name": "Heket\u0027s Gambit",
+    "modname": "Hex Tweaks"
+  },
+  {
+    "id": "hexcasting:fisherman/copy",
+    "start": "EAST",
+    "angles": "aada",
+    "name": "Fisherman\u0027s Gambit II",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:get_arch_lamp_velocity",
+    "start": "NORTH_EAST",
+    "angles": "qaqwddedqew",
+    "name": "Archgenie Reflection: Kinetic",
+    "modname": "Hexical"
+  },
+  {
+    "id": "complexhex:qy",
+    "start": "SOUTH_EAST",
+    "angles": "wdeeeeeqe",
+    "name": "Quaterionic Prfn.: j",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "moreiotas:item/main_hand",
+    "start": "EAST",
+    "angles": "adeq",
+    "name": "Duelist\u0027s Purification",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexcasting:akashic/read",
+    "start": "WEST",
+    "angles": "qqqwqqqqqaq",
+    "name": "Akasha\u0027s Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:raycast/entity",
+    "start": "EAST",
+    "angles": "weaqa",
+    "name": "Scout\u0027s Distillation",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:damage_stack",
+    "start": "NORTH_EAST",
+    "angles": "eeweeewdeq",
+    "name": "Deterioration Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:blockstate_lock",
+    "start": "EAST",
+    "angles": "qaqqqeaqwdewd",
+    "name": "Lock Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:cos",
+    "start": "SOUTH_EAST",
+    "angles": "qqqqqad",
+    "name": "Cosine Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:wisp/move/target/set",
+    "start": "WEST",
+    "angles": "awqwawqaw",
+    "name": "Pathfinder\u0027s Gambit",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexcasting:zone_entity/not_player",
+    "start": "NORTH_EAST",
+    "angles": "eeeeewaqaawe",
+    "name": "Zone Distillation: Non-Player",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:is_evoking",
+    "start": "EAST",
+    "angles": "wwaqqqqqeeaqawwewewwaqawwewew",
+    "name": "Evoker Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:toughness",
+    "start": "EAST",
+    "angles": "aeqqqqea",
+    "name": "Boxer\u0027s Purification",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:pollux",
+    "start": "NORTH_EAST",
+    "angles": "dadaqq",
+    "name": "Pollux\u0027s Gambit",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:themis",
+    "start": "WEST",
+    "angles": "dwaad",
+    "name": "Themis\u0027 Gambit",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:recognize",
+    "start": "WEST",
+    "angles": "eeeeeq",
+    "name": "Recognizer\u0027s Purification",
+    "modname": "Hexical"
+  },
+  {
+    "isGreat": true,
+    "id": "oneironaut:applymindrender",
+    "start": "SOUTH_WEST",
+    "angles": "qqdeeqddaadeeeeqdwaqweeqqeddqqwedweeeaqeqqqwqdqqqdedaaddadewaqdewadq",
+    "name": "Empower Mind Render",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexcellular:create_property",
+    "start": "SOUTH_WEST",
+    "angles": "aawe",
+    "name": "Schrödinger\u0027s Reflection",
+    "modname": "Hexcellular"
+  },
+  {
+    "id": "moreiotas:string/split",
+    "start": "EAST",
+    "angles": "aqwaqa",
+    "name": "Separation Distillation",
+    "modname": "MoreIotas"
+  },
+  {
+    "isGreat": true,
+    "id": "hexal:gate/make",
+    "start": "SOUTH_WEST",
+    "angles": "ewewewewewedeaeaeaeaeae",
+    "name": "Gate\u0027s Reflection",
+    "modname": "Hexal"
+  },
+  {
+    "id": "oneironaut:craftrod",
+    "start": "EAST",
+    "angles": "eqqqqqawweqqqqqawweqqqqqawwdeqewwwwweqeeeqewwwwweqe",
+    "name": "Conduct Rod",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexical:displace",
+    "start": "NORTH_EAST",
+    "angles": "qaqqqqeedaqqqa",
+    "name": "Displace",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:writable/entity",
+    "start": "EAST",
+    "angles": "wdwewewewewewqw",
+    "name": "Assessor\u0027s Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "complexhex:translatebit",
+    "start": "SOUTH_EAST",
+    "angles": "wqwqwqwqwqwawwaqaeaqe",
+    "name": "Translate BIT",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "hexcasting:craft/artifact",
+    "start": "EAST",
+    "angles": "wwaqqqqqeawqwqwqwqwqwwqqeadaeqqeqqeadaeqq",
+    "name": "Craft Artifact",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:breath",
+    "start": "NORTH_WEST",
+    "angles": "aqawdwaqawd",
+    "name": "Diver\u0027s Purification",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexcasting:hexvr/left_hand_vel",
+    "start": "WEST",
+    "angles": "ewdd",
+    "name": "hexcasting.action.hexcasting:hexvr/left_hand_vel",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "moreiotas:type/item_held",
+    "start": "SOUTH_WEST",
+    "angles": "edeedqd",
+    "name": "Sorter\u0027s Reflection",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "oneironaut:getrodstamp",
+    "start": "SOUTH_EAST",
+    "angles": "qwqqqwqawaaw",
+    "name": "Metronome Reflection",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "moreiotas:zone_entity/not_type",
+    "start": "NORTH_EAST",
+    "angles": "wdwqqqqqwdw",
+    "name": "Zone Exaltation: Not-Type",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexical:is_sprinting",
+    "start": "WEST",
+    "angles": "eaq",
+    "name": "Racer\u0027s Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:is_burning",
+    "start": "EAST",
+    "angles": "qqwaqda",
+    "name": "Inferno Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexical:iota_speck",
+    "start": "SOUTH_WEST",
+    "angles": "adeeaqa",
+    "name": "Alter Speck",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexal:wisp/transfer/allow",
+    "start": "NORTH_WEST",
+    "angles": "qqqqqewwqeeeee",
+    "name": "Allow Transfer",
+    "modname": "Hexal"
+  },
+  {
+    "id": "moreiotas:string/empty",
+    "start": "SOUTH_EAST",
+    "angles": "awdwa",
+    "name": "Blank Reflection",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexical:get_telepathy",
+    "start": "EAST",
+    "angles": "wqqadaw",
+    "name": "Telepathic Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:sin",
+    "start": "SOUTH_EAST",
+    "angles": "qqqqqaa",
+    "name": "Sine Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:floor",
+    "start": "EAST",
+    "angles": "ewq",
+    "name": "Floor Purification",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexical:write_shelf",
+    "start": "SOUTH_WEST",
+    "angles": "edeeedad",
+    "name": "Librarian\u0027s Gambit",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexdebug:craft/debugger",
+    "start": "SOUTH_WEST",
+    "angles": "aaewwwwwaqwawqwadawqwwwawwwqwwwaw",
+    "name": "Craft Debugger",
+    "modname": "HexDebug"
+  },
+  {
+    "id": "hexical:get_arch_lamp_storage",
+    "start": "NORTH_EAST",
+    "angles": "qaqwddedqwaqqqqq",
+    "name": "Archgenie Reflection: Memory",
+    "modname": "Hexical"
+  },
+  {
+    "isGreat": true,
+    "id": "complexhex:summonblockdisplay",
+    "start": "SOUTH_EAST",
+    "angles": "wewewewdqeeeeedqwawqw",
+    "name": "Summon Block Display",
+    "modname": "Complex Hex"
+  },
+  {
+    "id": "oneironaut:writerodramremote",
+    "start": "NORTH_WEST",
+    "angles": "ewdedwqwqwdedwqwaaw",
+    "name": "Williams\u0027 Gambit II",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexcasting:break_block",
+    "start": "EAST",
+    "angles": "qaqqqqq",
+    "name": "Break Block",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:akashic/write",
+    "start": "EAST",
+    "angles": "eeeweeeeede",
+    "name": "Akasha\u0027s Gambit",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexcasting:arctan2",
+    "start": "WEST",
+    "angles": "deadeeeeewd",
+    "name": "Inverse Tangent Purification II",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:falling_block",
+    "start": "EAST",
+    "angles": "wqwawqwqwqwqwqw",
+    "name": "Falling Block",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexical:is_brainswept",
+    "start": "SOUTH_EAST",
+    "angles": "qqqaqqq",
+    "name": "Sentience Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "moreiotas:string/action",
+    "start": "NORTH_WEST",
+    "angles": "wdwewdwdw",
+    "name": "Patternmaster\u0027s Purification",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexcasting:circle/impetus_dir",
+    "start": "SOUTH_WEST",
+    "angles": "eaqwqaewede",
+    "name": "Lodestone Reflection",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "oneironaut:readrodramremote",
+    "start": "NORTH_EAST",
+    "angles": "qwaqawewewaqawewddw",
+    "name": "Williams\u0027 Reflection II",
+    "modname": "Oneironaut"
+  },
+  {
+    "id": "hexical:env_packaged_hex",
+    "start": "NORTH_EAST",
+    "angles": "waaqwwaqqqqq",
+    "name": "Device Reflection",
+    "modname": "Hexical"
+  },
+  {
+    "id": "moreiotas:string/space",
+    "start": "SOUTH_EAST",
+    "angles": "awdwaaww",
+    "name": "Spacing Reflection",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexical:get_media",
+    "start": "WEST",
+    "angles": "ddew",
+    "name": "Media Purification",
+    "modname": "Hexical"
+  },
+  {
+    "id": "hexcasting:const/vec/py",
+    "start": "NORTH_WEST",
+    "angles": "qqqqqew",
+    "name": "Vector Reflection +Y",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:link/get",
+    "start": "EAST",
+    "angles": "eqqqqqaww",
+    "name": "Phonebook Purification",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexcasting:read",
+    "start": "EAST",
+    "angles": "aqqqqq",
+    "name": "Scribe\u0027s Reflection",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:wisp/transfer/disallow",
+    "start": "NORTH_WEST",
+    "angles": "qqqqqeqdeddweqqqqq",
+    "name": "Disallow Transfer",
+    "modname": "Hexal"
+  },
+  {
+    "id": "moreiotas:matrix/split/vert",
+    "start": "SOUTH_EAST",
+    "angles": "awdedwawawwaeawwa",
+    "name": "Toppling Gambit",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexal:mote/return",
+    "start": "EAST",
+    "angles": "qded",
+    "name": "Return Item",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexcasting:eval",
+    "start": "SOUTH_EAST",
+    "angles": "deaqq",
+    "name": "Hermes\u0027 Gambit",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "hexal:wisp/media",
+    "start": "NORTH_WEST",
+    "angles": "aqaweewaqaweedw",
+    "name": "Reservoir Reflection",
+    "modname": "Hexal"
+  },
+  {
+    "id": "hexcasting:entity_pos/foot",
+    "start": "NORTH_EAST",
+    "angles": "dd",
+    "name": "Compass\u0027 Purification II",
+    "modname": "Hex Casting"
+  },
+  {
+    "id": "moreiotas:item/off_hand",
+    "start": "EAST",
+    "angles": "qeda",
+    "name": "Shieldbearer\u0027s Purification",
+    "modname": "MoreIotas"
+  },
+  {
+    "id": "hexcasting:hexvr/right_hand_rot",
+    "start": "EAST",
+    "angles": "qwa",
+    "name": "hexcasting.action.hexcasting:hexvr/right_hand_rot",
+    "modname": "Hex Casting"
+  }
+]

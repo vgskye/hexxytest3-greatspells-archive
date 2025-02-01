@@ -1,0 +1,56 @@
+---
+import { Icon } from "astro-icon/components";
+
+const { signature, startdir, is_per_world } = Astro.props;
+---
+
+<script src="./hexcasting_render.ts"></script>
+<script src="./dropdown.ts"></script>
+
+<div class="pattern-display mx-auto size-64 shrink-0">
+  <div class="pd-dropdown spell-settings-dropdown">
+    <span
+      class="dropdown-toggle spell-settings-toggle"
+      data-toggle="dropdown"
+      role="button"
+      aria-haspopup="true"
+      aria-expanded="false"
+    >
+      <Icon name="fluent:settings-24-filled" />
+    </span>
+
+    <ul class="dropdown-menu">
+      <li class="dropdown-submenu">
+        <span
+          class="dropdown-toggle"
+          data-toggle="dropdown"
+          role="button"
+          aria-haspopup="true"
+          aria-expanded="false">Renderers</span
+        >
+        <ul class="dropdown-menu dropdown-menu-left render-dropdowns"></ul>
+      </li>
+
+      <li class="dropdown-submenu">
+        <span
+          class="dropdown-toggle"
+          data-toggle="dropdown"
+          role="button"
+          aria-haspopup="true"
+          aria-expanded="false">Palettes</span
+        >
+        <ul class="dropdown-menu dropdown-menu-left palette-dropdowns"></ul>
+      </li>
+    </ul>
+  </div>
+
+  <canvas
+    class="spell-viz"
+    width="256"
+    height="256"
+    data-string={signature}
+    data-start={startdir}
+    data-per-world={is_per_world}
+    onload="">Your browser does not support visualizing patterns.</canvas
+  >
+</div>

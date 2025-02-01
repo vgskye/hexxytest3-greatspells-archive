@@ -1,22 +1,51 @@
+---
+import { Icon } from "astro-icon/components";
+import "../styles/global.css";
+---
+
 <!doctype html>
 <html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro Basics</title>
-	</head>
-	<body>
-		<slot />
-	</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <meta name="generator" content={Astro.generator} />
+    <title>Hexxytest3 Great Spells Archive</title>
+  </head>
+  <body>
+    <slot />
+    <div
+      aria-live="assertive"
+      class="pointer-events-none fixed inset-0 flex items-end px-4 py-6 sm:items-start sm:p-6"
+    >
+      <div
+        id="noti-area"
+        class="flex w-full flex-col items-center space-y-4 sm:items-end"
+      >
+      </div>
+      <template id="noti-template">
+        <div
+          class="pointer-events-auto w-full max-w-sm overflow-hidden rounded-lg bg-gray-700 ring-1 shadow-lg ring-black/5"
+        >
+          <div class="p-4">
+            <div class="flex items-start">
+              <div class="shrink-0">
+                <Icon
+                  name="fluent:checkmark-circle-24-regular"
+                  class="size-6 text-green-500"
+                  aria-hidden="true"
+                  data-slot="icon"
+                />
+              </div>
+              <div class="ml-3 w-0 flex-1 pt-0.5">
+                <p class="text-sm font-medium text-gray-100">
+                  Copied to clipboard!
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </template>
+    </div>
+  </body>
 </html>
-
-<style>
-	html,
-	body {
-		margin: 0;
-		width: 100%;
-		height: 100%;
-	}
-</style>
