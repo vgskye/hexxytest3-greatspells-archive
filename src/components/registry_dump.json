@@ -1,83 +1,11 @@
 [
   {
     "isGreat": true,
-    "id": "hexcasting:sentinel/create/great",
-    "start": "EAST",
-    "angles": "eedeqqqwqqwdeeeqd",
-    "name": "Summon Greater Sentinel",
-    "modname": "Hex Casting"
-  },
-  {
-    "isGreat": true,
-    "id": "hexcasting:potion/strength",
+    "id": "hexcasting:teleport/great",
     "start": "NORTH_EAST",
-    "angles": "eeeqdwdwddeaa",
-    "name": "Green Sun's Zenith",
+    "angles": "qqwwwqqwqqawdeeaeeeeedweeewwwee",
+    "name": "Greater Teleport",
     "modname": "Hex Casting"
-  },
-  {
-    "isGreat": true,
-    "id": "complexhex:summontextdisplay",
-    "start": "SOUTH_WEST",
-    "angles": "wewewdqdwaaqddqdqawqwqw",
-    "name": "Summon Text Display",
-    "modname": "Complex Hex"
-  },
-  {
-    "isGreat": true,
-    "id": "hexcasting:lightning",
-    "start": "NORTH_WEST",
-    "angles": "ewqqeaaqwdwaddw",
-    "name": "Summon Lightning",
-    "modname": "Hex Casting"
-  },
-  {
-    "isGreat": true,
-    "id": "hexcasting:potion/haste",
-    "start": "WEST",
-    "angles": "awaddqawaeqqq",
-    "name": "Red Sun's Zenith",
-    "modname": "Hex Casting"
-  },
-  {
-    "isGreat": true,
-    "id": "hexcasting:dispel_rain",
-    "start": "EAST",
-    "angles": "qdwaawqeqqqwwwqqqwwe",
-    "name": "Dispel Rain",
-    "modname": "Hex Casting"
-  },
-  {
-    "isGreat": true,
-    "id": "oneironaut:reviveflayed",
-    "start": "WEST",
-    "angles": "weweweeeeedqeewewqdewdqdwe",
-    "name": "Instill Psyche",
-    "modname": "Oneironaut"
-  },
-  {
-    "isGreat": true,
-    "id": "complexhex:summonitemdisplay",
-    "start": "NORTH_EAST",
-    "angles": "wwaqqqqawwawqwqwqwqwqw",
-    "name": "Summon Item Display",
-    "modname": "Complex Hex"
-  },
-  {
-    "isGreat": true,
-    "id": "oneironaut:dimteleport",
-    "start": "WEST",
-    "angles": "eaeedwqawwwawdaqaawawwwaeaqedwdwdeqdaqeaeqqwwwwqqeqeqqwwwwqqe",
-    "name": "Noetic Gateway",
-    "modname": "Oneironaut"
-  },
-  {
-    "isGreat": true,
-    "id": "oneironaut:infusemedia",
-    "start": "NORTH_EAST",
-    "angles": "qqeadadaqedeewwqdeqeqdaawqqqeeeeedwwaeaeaeddqqdwe",
-    "name": "Media Infusion",
-    "modname": "Oneironaut"
   },
   {
     "isGreat": true,
@@ -86,6 +14,14 @@
     "angles": "dweaaeqwqaaedwwwaaw",
     "name": "Greater Blink",
     "modname": "Hexical"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:create_lava",
+    "start": "WEST",
+    "angles": "aedeqawqaqq",
+    "name": "Create Lava",
+    "modname": "Hex Casting"
   },
   {
     "isGreat": true,
@@ -105,14 +41,6 @@
   },
   {
     "isGreat": true,
-    "id": "oneironaut:applynotmissing",
-    "start": "SOUTH_EAST",
-    "angles": "dqqqdqeqdwdqeqdqqqde",
-    "name": "Uplifting Resonance",
-    "modname": "Oneironaut"
-  },
-  {
-    "isGreat": true,
     "id": "hextweaks:you_like_drinking_potions",
     "start": "SOUTH_WEST",
     "angles": "wdwawwwawwwawqwewewewew",
@@ -121,26 +49,10 @@
   },
   {
     "isGreat": true,
-    "id": "hexcasting:create_lava",
-    "start": "WEST",
-    "angles": "aedeqawqaqq",
-    "name": "Create Lava",
-    "modname": "Hex Casting"
-  },
-  {
-    "isGreat": true,
-    "id": "hexal:wisp/consume",
-    "start": "SOUTH_EAST",
-    "angles": "wawqwawwwewwwewewewwwewdwqeeeeewaqaewqddaaeewawqwaw",
-    "name": "Consume Wisp",
-    "modname": "Hexal"
-  },
-  {
-    "isGreat": true,
-    "id": "hexcasting:brainsweep",
-    "start": "SOUTH_EAST",
-    "angles": "dweeeqeaqwqwqqqeqdewqdewdqdwe",
-    "name": "Flay Mind",
+    "id": "hexcasting:dispel_rain",
+    "start": "EAST",
+    "angles": "qdwaawqeqqqwwwqqqwwe",
+    "name": "Dispel Rain",
     "modname": "Hex Casting"
   },
   {
@@ -153,10 +65,18 @@
   },
   {
     "isGreat": true,
-    "id": "hexcasting:potion/night_vision",
-    "start": "SOUTH_WEST",
-    "angles": "qdwdwddeeeeaa",
-    "name": "Blue Sun's Zenith",
+    "id": "oneironaut:dimteleport",
+    "start": "WEST",
+    "angles": "eaeedwqawwwawdaqaawawwwaeaqedwdwdeqdaqeaeqqwwwwqqeqeqqwwwwqqe",
+    "name": "Noetic Gateway",
+    "modname": "Oneironaut"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:lightning",
+    "start": "NORTH_WEST",
+    "angles": "ewqqeaaqwdwaddw",
+    "name": "Summon Lightning",
     "modname": "Hex Casting"
   },
   {
@@ -169,74 +89,18 @@
   },
   {
     "isGreat": true,
-    "id": "hexical:conjure_mesh",
-    "start": "NORTH_EAST",
-    "angles": "qqwqdeeeaqqwqwqqeqqqaeqqqwq",
-    "name": "Conjure Mesh",
-    "modname": "Hexical"
-  },
-  {
-    "isGreat": true,
-    "id": "hexal:tick",
-    "start": "SOUTH_WEST",
-    "angles": "qawdwdwaqqwqeqwqqawdwdwaq",
-    "name": "Accelerate",
-    "modname": "Hexal"
-  },
-  {
-    "isGreat": true,
-    "id": "oneironaut:resistdetection",
-    "start": "NORTH_EAST",
-    "angles": "qeeqawawadedaaedw",
-    "name": "Stealth Shroud",
-    "modname": "Oneironaut"
-  },
-  {
-    "isGreat": true,
-    "id": "hexcasting:flight",
-    "start": "WEST",
-    "angles": "eddwawawdwdq",
-    "name": "Altiora",
-    "modname": "Hex Casting"
-  },
-  {
-    "isGreat": true,
-    "id": "hextweaks:infusion",
-    "start": "WEST",
-    "angles": "aadqedeqqawddeweddwaa",
-    "name": "Infuse Will",
-    "modname": "Hex Tweaks"
-  },
-  {
-    "isGreat": true,
-    "id": "hexal:wisp/seon/set",
-    "start": "WEST",
-    "angles": "wweqaeaqdqqdqaeaqdqqe",
-    "name": "Bind Wisp",
-    "modname": "Hexal"
-  },
-  {
-    "isGreat": true,
-    "id": "oneironaut:swapspace",
-    "start": "NORTH_EAST",
-    "angles": "dewqwadeeeewdaqewdqqqqweqqewqqqaedwqeedwqdweweadeeeaa",
-    "name": "Spatial Interchange",
-    "modname": "Oneironaut"
-  },
-  {
-    "isGreat": true,
-    "id": "hexcasting:teleport/great",
-    "start": "NORTH_EAST",
-    "angles": "qqwwwqqwqqawdeeaeeeeedweeewwwee",
-    "name": "Greater Teleport",
-    "modname": "Hex Casting"
-  },
-  {
-    "isGreat": true,
     "id": "hexcasting:potion/regeneration",
     "start": "SOUTH_EAST",
     "angles": "dwdqeeeeeddqa",
     "name": "White Sun's Zenith",
+    "modname": "Hex Casting"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:potion/haste",
+    "start": "WEST",
+    "angles": "awaddqawaeqqq",
+    "name": "Red Sun's Zenith",
     "modname": "Hex Casting"
   },
   {
@@ -249,10 +113,146 @@
   },
   {
     "isGreat": true,
+    "id": "oneironaut:resistdetection",
+    "start": "NORTH_EAST",
+    "angles": "qeeqawawadedaaedw",
+    "name": "Stealth Shroud",
+    "modname": "Oneironaut"
+  },
+  {
+    "isGreat": true,
+    "id": "complexhex:summontextdisplay",
+    "start": "SOUTH_WEST",
+    "angles": "wewewdqdwaaqddqdqawqwqw",
+    "name": "Summon Text Display",
+    "modname": "Complex Hex"
+  },
+  {
+    "isGreat": true,
+    "id": "oneironaut:reviveflayed",
+    "start": "WEST",
+    "angles": "weweweeeeedqeewewqdewdqdwe",
+    "name": "Instill Psyche",
+    "modname": "Oneironaut"
+  },
+  {
+    "isGreat": true,
+    "id": "oneironaut:swapspace",
+    "start": "NORTH_EAST",
+    "angles": "dewqwadeeeewdaqewdqqqqweqqewqqqaedwqeedwqdweweadeeeaa",
+    "name": "Spatial Interchange",
+    "modname": "Oneironaut"
+  },
+  {
+    "isGreat": true,
+    "id": "hexal:tick",
+    "start": "SOUTH_WEST",
+    "angles": "qawdwdwaqqwqeqwqqawdwdwaq",
+    "name": "Accelerate",
+    "modname": "Hexal"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:flight",
+    "start": "WEST",
+    "angles": "eddwawawdwdq",
+    "name": "Altiora",
+    "modname": "Hex Casting"
+  },
+  {
+    "isGreat": true,
     "id": "hexal:gate/make",
     "start": "SOUTH_WEST",
     "angles": "ewewewewewedeaeaeaeaeae",
     "name": "Gate's Reflection",
+    "modname": "Hexal"
+  },
+  {
+    "isGreat": true,
+    "id": "complexhex:summonitemdisplay",
+    "start": "NORTH_EAST",
+    "angles": "wwaqqqqawwawqwqwqwqwqw",
+    "name": "Summon Item Display",
+    "modname": "Complex Hex"
+  },
+  {
+    "isGreat": true,
+    "id": "hextweaks:infusion",
+    "start": "WEST",
+    "angles": "aadqedeqqawddeweddwaa",
+    "name": "Infuse Will",
+    "modname": "Hex Tweaks"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:potion/strength",
+    "start": "NORTH_EAST",
+    "angles": "eeeqdwdwddeaa",
+    "name": "Green Sun's Zenith",
+    "modname": "Hex Casting"
+  },
+  {
+    "isGreat": true,
+    "id": "hexical:conjure_mesh",
+    "start": "NORTH_EAST",
+    "angles": "qqwqdeeeaqqwqwqqeqqqaeqqqwq",
+    "name": "Conjure Mesh",
+    "modname": "Hexical"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:sentinel/create/great",
+    "start": "EAST",
+    "angles": "eedeqqqwqqwdeeeqd",
+    "name": "Summon Greater Sentinel",
+    "modname": "Hex Casting"
+  },
+  {
+    "isGreat": true,
+    "id": "oneironaut:applynotmissing",
+    "start": "SOUTH_EAST",
+    "angles": "dqqqdqeqdwdqeqdqqqde",
+    "name": "Uplifting Resonance",
+    "modname": "Oneironaut"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:brainsweep",
+    "start": "SOUTH_EAST",
+    "angles": "dweeeqeaqwqwqqqeqdewqdewdqdwe",
+    "name": "Flay Mind",
+    "modname": "Hex Casting"
+  },
+  {
+    "isGreat": true,
+    "id": "hexal:wisp/seon/set",
+    "start": "WEST",
+    "angles": "wweqaeaqdqqdqaeaqdqqe",
+    "name": "Bind Wisp",
+    "modname": "Hexal"
+  },
+  {
+    "isGreat": true,
+    "id": "hexcasting:potion/night_vision",
+    "start": "SOUTH_WEST",
+    "angles": "qdwdwddeeeeaa",
+    "name": "Blue Sun's Zenith",
+    "modname": "Hex Casting"
+  },
+  {
+    "isGreat": true,
+    "id": "oneironaut:infusemedia",
+    "start": "NORTH_EAST",
+    "angles": "qqeadadaqedeewwqdeqeqdaawqqqeeeeedwwaeaeaeddqqdwe",
+    "name": "Media Infusion",
+    "modname": "Oneironaut"
+  },
+  {
+    "isGreat": true,
+    "id": "hexal:wisp/consume",
+    "start": "SOUTH_EAST",
+    "angles": "wawqwawwwewwwewewewwwewdwqeeeeewaqaewqddaaeewawqwaw",
+    "name": "Consume Wisp",
     "modname": "Hexal"
   },
   {
